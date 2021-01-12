@@ -1,7 +1,9 @@
 
+
 <p align="center">
     <img src="https://i2.wp.com/www.nintendo-insider.com/wp-content/uploads/2015/11/the-binding-of-isaac-rebirth-banner.jpg" />
 </p>
+
 # Isaac Item Search 🔍
 
 This tool was made for me to search for an Item's name in The Binding of Isaac based on its colour.Right now it adds a list of items in json file, and stores the most common colours for each items.
