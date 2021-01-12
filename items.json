@@ -1,0 +1,3272 @@
+{
+    "A Pony": {
+        "name": "A Pony",
+        "DLC": null,
+        "colors": [[377, "black"], [61, "gray"], [8, "red"]],
+        "type": "Active"
+    },
+    "Anarchist Cookbook": {
+        "name": "Anarchist Cookbook",
+        "DLC": null,
+        "colors": [[134, "black"], [78, "maroon"], [65, "silver"], [44, "purple"]],
+        "type": "Active"
+    },
+    "Best Friend": {
+        "name": "Best Friend",
+        "DLC": null,
+        "colors": [[184, "black"], [99, "gray"], [44, "silver"]],
+        "type": "Active"
+    },
+    "Blank Card": {
+        "name": "Blank Card",
+        "DLC": null,
+        "colors": [[100, "black"], [77, "white"], [38, "silver"], [2, "gray"]],
+        "type": "Active"
+    },
+    "Blood Rights": {
+        "name": "Blood Rights",
+        "DLC": null,
+        "colors": [[159, "black"], [79, "maroon"], [23, "silver"]],
+        "type": "Active"
+    },
+    "Bob's Rotten Head": {
+        "name": "Bob's Rotten Head",
+        "DLC": null,
+        "colors": [[212, "black"], [113, "gray"]],
+        "type": "Active"
+    },
+    "Book of Revelations": {
+        "name": "Book of Revelations",
+        "DLC": null,
+        "colors": [[178, "black"], [101, "gray"], [44, "maroon"]],
+        "type": "Active"
+    },
+    "Book of Secrets": {
+        "name": "Book of Secrets",
+        "DLC": null,
+        "colors": [[173, "black"], [81, "silver"], [69, "white"], [44, "gray"]],
+        "type": "Active"
+    },
+    "Book of Shadows": {
+        "name": "Book of Shadows",
+        "DLC": null,
+        "colors": [[169, "black"], [118, "silver"], [48, "gray"]],
+        "type": "Active"
+    },
+    "Box of Spiders": {
+        "name": "Box of Spiders",
+        "DLC": null,
+        "colors": [[226, "black"], [72, "gray"], [62, "silver"]],
+        "type": "Active"
+    },
+    "Breath of Life": {
+        "name": "Breath of Life",
+        "DLC": null,
+        "colors": [[252, "white"]],
+        "type": "Active"
+    },
+    "Butter Bean": {
+        "name": "Butter Bean",
+        "DLC": null,
+        "colors": [[56, "black"], [25, "white"], [19, "silver"]],
+        "type": "Active"
+    },
+    "Converter": {
+        "name": "Converter",
+        "DLC": null,
+        "colors": [[169, "black"], [102, "gray"], [18, "silver"]],
+        "type": "Active"
+    },
+    "Crack the Sky": {
+        "name": "Crack the Sky",
+        "DLC": null,
+        "colors": [[81, "black"], [60, "white"], [12, "silver"]],
+        "type": "Active"
+    },
+    "Crystal Ball": {
+        "name": "Crystal Ball",
+        "DLC": null,
+        "colors": [[117, "black"], [82, "silver"], [57, "white"]],
+        "type": "Active"
+    },
+    "D10": {
+        "name": "D10",
+        "DLC": null,
+        "colors": [[107, "black"], [46, "olive"], [30, "maroon"], [22, "orange"]],
+        "type": "Active"
+    },
+    "D100": {
+        "name": "D100",
+        "DLC": null,
+        "colors": [[158, "silver"], [108, "black"], [35, "white"]],
+        "type": "Active"
+    },
+    "D20": {
+        "name": "D20",
+        "DLC": null,
+        "colors": [[191, "black"], [172, "maroon"]],
+        "type": "Active"
+    },
+    "D4": {
+        "name": "D4",
+        "DLC": null,
+        "colors": [[86, "black"], [80, "green"]],
+        "type": "Active"
+    },
+    "Dad's Key": {
+        "name": "Dad's Key",
+        "DLC": null,
+        "colors": [[114, "black"], [69, "gray"], [24, "silver"]],
+        "type": "Active"
+    },
+    "Dead Sea Scrolls": {
+        "name": "Dead Sea Scrolls",
+        "DLC": null,
+        "colors": [[195, "black"], [125, "silver"], [74, "gray"]],
+        "type": "Active"
+    },
+    "Deck of Cards": {
+        "name": "Deck of Cards",
+        "DLC": null,
+        "colors": [[192, "black"], [90, "gray"], [44, "maroon"], [36, "silver"]],
+        "type": "Active"
+    },
+    "Doctor's Remote": {
+        "name": "Doctor's Remote",
+        "DLC": null,
+        "colors": [[150, "black"], [83, "gray"]],
+        "type": "Active"
+    },
+    "Flush!": {
+        "name": "Flush!",
+        "DLC": null,
+        "colors": [[96, "black"], [48, "gray"], [45, "silver"]],
+        "type": "Active"
+    },
+    "Forget Me Now": {
+        "name": "Forget Me Now",
+        "DLC": null,
+        "colors": [[87, "silver"], [84, "black"]],
+        "type": "Active"
+    },
+    "Guppy's Head": {
+        "name": "Guppy's Head",
+        "DLC": null,
+        "colors": [[147, "black"], [110, "gray"], [21, "white"]],
+        "type": "Active"
+    },
+    "Guppy's Paw": {
+        "name": "Guppy's Paw",
+        "DLC": null,
+        "colors": [[167, "black"], [24, "silver"], [23, "white"]],
+        "type": "Active"
+    },
+    "Head of Krampus": {
+        "name": "Head of Krampus",
+        "DLC": null,
+        "colors": [[230, "black"], [62, "silver"], [47, "gray"]],
+        "type": "Active"
+    },
+    "How to Jump": {
+        "name": "How to Jump",
+        "DLC": null,
+        "colors": [[197, "black"], [75, "gray"], [36, "orange"]],
+        "type": "Active"
+    },
+    "Isaac's Tears": {
+        "name": "Isaac's Tears",
+        "DLC": null,
+        "colors": [[135, "black"], [53, "silver"], [45, "gray"], [16, "white"]],
+        "type": "Active"
+    },
+    "IV Bag": {
+        "name": "IV Bag",
+        "DLC": null,
+        "colors": [[156, "black"], [52, "silver"], [51, "maroon"], [16, "red"]],
+        "type": "Active"
+    },
+    "Kamikaze!": {
+        "name": "Kamikaze!",
+        "DLC": null,
+        "colors": [[247, "black"], [128, "maroon"]],
+        "type": "Active"
+    },
+    "Lemon Mishap": {
+        "name": "Lemon Mishap",
+        "DLC": null,
+        "colors": [[100, "white"], [96, "black"], [45, "yellow"]],
+        "type": "Active"
+    },
+    "Magic Fingers": {
+        "name": "Magic Fingers",
+        "DLC": null,
+        "colors": [[189, "black"], [85, "silver"], [42, "gray"]],
+        "type": "Active"
+    },
+    "Mom's Bottle of Pills": {
+        "name": "Mom's Bottle of Pills",
+        "DLC": null,
+        "colors": [[190, "black"], [73, "orange"], [29, "white"]],
+        "type": "Active"
+    },
+    "Mom's Bra": {
+        "name": "Mom's Bra",
+        "DLC": null,
+        "colors": [[172, "black"], [114, "silver"], [28, "gray"]],
+        "type": "Active"
+    },
+    "Mom's Pad": {
+        "name": "Mom's Pad",
+        "DLC": null,
+        "colors": [[105, "black"], [85, "silver"], [36, "white"]],
+        "type": "Active"
+    },
+    "Monster Manual": {
+        "name": "Monster Manual",
+        "DLC": null,
+        "colors": [[134, "black"], [124, "maroon"], [51, "silver"]],
+        "type": "Active"
+    },
+    "Monstro's Tooth": {
+        "name": "Monstro's Tooth",
+        "DLC": null,
+        "colors": [[105, "black"], [102, "silver"], [12, "maroon"]],
+        "type": "Active"
+    },
+    "Mr. Boom": {
+        "name": "Mr. Boom",
+        "DLC": null,
+        "colors": [[188, "black"], [125, "gray"]],
+        "type": "Active"
+    },
+    "My Little Unicorn": {
+        "name": "My Little Unicorn",
+        "DLC": null,
+        "colors": [[88, "black"], [44, "silver"], [29, "white"], [26, "gray"]],
+        "type": "Active"
+    },
+    "Notched Axe": {
+        "name": "Notched Axe",
+        "DLC": null,
+        "colors": [[252, "black"], [81, "silver"], [45, "gray"]],
+        "type": "Active"
+    },
+    "Pandora's Box": {
+        "name": "Pandora's Box",
+        "DLC": null,
+        "colors": [[154, "black"], [95, "teal"], [95, "navy"]],
+        "type": "Active"
+    },
+    "Portable Slot": {
+        "name": "Portable Slot",
+        "DLC": null,
+        "colors": [[204, "black"], [100, "maroon"], [22, "gray"]],
+        "type": "Active"
+    },
+    "Prayer Card": {
+        "name": "Prayer Card",
+        "DLC": null,
+        "colors": [[134, "black"], [125, "silver"], [57, "white"]],
+        "type": "Active"
+    },
+    "Razor Blade": {
+        "name": "Razor Blade",
+        "DLC": null,
+        "colors": [[148, "black"], [47, "gray"], [33, "silver"], [33, "white"]],
+        "type": "Active"
+    },
+    "Red Candle": {
+        "name": "Red Candle",
+        "DLC": null,
+        "colors": [[164, "black"], [37, "gray"], [19, "maroon"]],
+        "type": "Active"
+    },
+    "Remote Detonator": {
+        "name": "Remote Detonator",
+        "DLC": null,
+        "colors": [[229, "black"], [156, "maroon"]],
+        "type": "Active"
+    },
+    "Satanic Bible": {
+        "name": "Satanic Bible",
+        "DLC": null,
+        "colors": [[178, "black"], [56, "maroon"], [50, "gray"]],
+        "type": "Active"
+    },
+    "Scissors": {
+        "name": "Scissors",
+        "DLC": null,
+        "colors": [[205, "black"], [51, "gray"], [31, "silver"]],
+        "type": "Active"
+    },
+    "Shoop Da Whoop!": {
+        "name": "Shoop Da Whoop!",
+        "DLC": null,
+        "colors": [[219, "black"], [121, "maroon"], [20, "white"]],
+        "type": "Active"
+    },
+    "Spider Butt": {
+        "name": "Spider Butt",
+        "DLC": null,
+        "colors": [[200, "black"], [63, "gray"], [29, "maroon"]],
+        "type": "Active"
+    },
+    "Tammy's Head": {
+        "name": "Tammy's Head",
+        "DLC": null,
+        "colors": [[153, "black"], [128, "silver"], [34, "gray"]],
+        "type": "Active"
+    },
+    "Telepathy for Dummies": {
+        "name": "Telepathy for Dummies",
+        "DLC": null,
+        "colors": [[224, "black"], [70, "yellow"], [28, "silver"]],
+        "type": "Active"
+    },
+    "Teleport": {
+        "name": "Teleport",
+        "DLC": null,
+        "colors": [[150, "black"], [42, "silver"], [27, "gray"], [14, "teal"]],
+        "type": "Active"
+    },
+    "The Bean": {
+        "name": "The Bean",
+        "DLC": null,
+        "colors": [[56, "black"], [41, "maroon"], [3, "white"]],
+        "type": "Active"
+    },
+    "The Bible": {
+        "name": "The Bible",
+        "DLC": null,
+        "colors": [[190, "black"], [101, "gray"], [44, "maroon"]],
+        "type": "Active"
+    },
+    "The Book of Belial": {
+        "name": "The Book of Belial",
+        "DLC": null,
+        "colors": [[254, "black"], [81, "gray"]],
+        "type": "Active"
+    },
+    "The Book of Sin": {
+        "name": "The Book of Sin",
+        "DLC": null,
+        "colors": [[356, "black"], [33, "maroon"]],
+        "type": "Active"
+    },
+    "The Boomerang": {
+        "name": "The Boomerang",
+        "DLC": null,
+        "colors": [[94, "black"], [51, "silver"], [9, "blue"]],
+        "type": "Active"
+    },
+    "The Candle": {
+        "name": "The Candle",
+        "DLC": null,
+        "colors": [[165, "black"], [56, "gray"]],
+        "type": "Active"
+    },
+    "The D6": {
+        "name": "The D6",
+        "DLC": null,
+        "colors": [[112, "maroon"], [107, "black"], [40, "purple"]],
+        "type": "Active"
+    },
+    "The Gamekid": {
+        "name": "The Gamekid",
+        "DLC": null,
+        "colors": [[123, "black"], [85, "silver"]],
+        "type": "Active"
+    },
+    "The Hourglass": {
+        "name": "The Hourglass",
+        "DLC": null,
+        "colors": [[176, "black"], [19, "gray"], [18, "maroon"], [17, "silver"]],
+        "type": "Active"
+    },
+    "The Jar": {
+        "name": "The Jar",
+        "DLC": null,
+        "colors": [[177, "black"], [169, "white"], [48, "maroon"]],
+        "type": "Active"
+    },
+    "The Nail": {
+        "name": "The Nail",
+        "DLC": null,
+        "colors": [[92, "black"], [24, "silver"], [22, "gray"]],
+        "type": "Active"
+    },
+    "The Necronomicon": {
+        "name": "The Necronomicon",
+        "DLC": null,
+        "colors": [[219, "black"], [55, "purple"], [44, "maroon"]],
+        "type": "Active"
+    },
+    "The Pinking Shears": {
+        "name": "The Pinking Shears",
+        "DLC": null,
+        "colors": [[184, "black"], [31, "gray"], [16, "silver"]],
+        "type": "Active"
+    },
+    "The Poop": {
+        "name": "The Poop",
+        "DLC": null,
+        "colors": [[105, "gray"], [103, "black"], [20, "maroon"]],
+        "type": "Active"
+    },
+    "Undefined": {
+        "name": "Undefined",
+        "DLC": null,
+        "colors": [[192, "black"], [51, "gray"], [34, "maroon"], [26, "silver"]],
+        "type": "Active"
+    },
+    "Unicorn Stump": {
+        "name": "Unicorn Stump",
+        "DLC": null,
+        "colors": [[58, "black"], [24, "gray"], [22, "silver"], [13, "white"]],
+        "type": "Active"
+    },
+    "We Need to Go Deeper!": {
+        "name": "We Need to Go Deeper!",
+        "DLC": null,
+        "colors": [[166, "black"], [48, "gray"], [29, "silver"]],
+        "type": "Active"
+    },
+    "White Pony": {
+        "name": "White Pony",
+        "DLC": null,
+        "colors": [[259, "black"], [117, "silver"], [65, "white"], [8, "red"]],
+        "type": "Active"
+    },
+    "Yum Heart": {
+        "name": "Yum Heart",
+        "DLC": null,
+        "colors": [[143, "black"], [59, "red"], [55, "maroon"]],
+        "type": "Active"
+    },
+    "Box of Friends": {
+        "name": "Box of Friends",
+        "DLC": "Afterbirth",
+        "colors": [[167, "black"], [78, "yellow"], [36, "olive"]],
+        "type": "Active"
+    },
+    "D12": {
+        "name": "D12",
+        "DLC": "Afterbirth",
+        "colors": [[138, "black"], [60, "teal"], [42, "gray"]],
+        "type": "Active"
+    },
+    "D7": {
+        "name": "D7",
+        "DLC": "Afterbirth",
+        "colors": [[110, "black"], [85, "gray"], [26, "silver"]],
+        "type": "Active"
+    },
+    "D8": {
+        "name": "D8",
+        "DLC": "Afterbirth",
+        "colors": [[136, "black"], [22, "gray"]],
+        "type": "Active"
+    },
+    "Diplopia": {
+        "name": "Diplopia",
+        "DLC": "Afterbirth",
+        "colors": [[139, "black"], [54, "silver"], [49, "gray"], [12, "white"]],
+        "type": "Active"
+    },
+    "Friendly Ball": {
+        "name": "Friendly Ball",
+        "DLC": "Afterbirth",
+        "colors": [[110, "black"], [44, "gray"], [32, "silver"]],
+        "type": "Active"
+    },
+    "Glass Cannon": {
+        "name": "Glass Cannon",
+        "DLC": "Afterbirth",
+        "colors": [[174, "black"], [57, "white"], [53, "gray"], [43, "silver"]],
+        "type": "Active"
+    },
+    "Glowing Hour Glass": {
+        "name": "Glowing Hour Glass",
+        "DLC": "Afterbirth",
+        "colors": [[168, "black"], [149, "cyan"]],
+        "type": "Active"
+    },
+    "Jar of Flies": {
+        "name": "Jar of Flies",
+        "DLC": "Afterbirth",
+        "colors": [[197, "black"], [191, "white"]],
+        "type": "Active"
+    },
+    "Kidney Bean": {
+        "name": "Kidney Bean",
+        "DLC": "Afterbirth",
+        "colors": [[103, "black"], [74, "red"], [70, "maroon"]],
+        "type": "Active"
+    },
+    "Mega Bean": {
+        "name": "Mega Bean",
+        "DLC": "Afterbirth",
+        "colors": [[103, "black"], [74, "silver"], [70, "gray"]],
+        "type": "Active"
+    },
+    "Mega Blast": {
+        "name": "Mega Blast",
+        "DLC": "Afterbirth",
+        "colors": [[416, "black"], [41, "purple"]],
+        "type": "Active"
+    },
+    "Mine Crafter": {
+        "name": "Mine Crafter",
+        "DLC": "Afterbirth",
+        "colors": [[178, "black"], [68, "orange"], [45, "red"], [29, "olive"]],
+        "type": "Active"
+    },
+    "Mom's Box": {
+        "name": "Mom's Box",
+        "DLC": "Afterbirth",
+        "colors": [[151, "black"], [58, "gray"], [25, "purple"]],
+        "type": "Active"
+    },
+    "Placebo": {
+        "name": "Placebo",
+        "DLC": "Afterbirth",
+        "colors": [[101, "black"], [50, "gray"], [42, "silver"], [13, "white"]],
+        "type": "Active"
+    },
+    "Tear Detonator": {
+        "name": "Tear Detonator",
+        "DLC": "Afterbirth",
+        "colors": [[229, "black"], [130, "teal"], [32, "gray"]],
+        "type": "Active"
+    },
+    "Teleport 2.0": {
+        "name": "Teleport 2.0",
+        "DLC": "Afterbirth",
+        "colors": [[150, "black"], [42, "white"], [31, "yellow"], [10, "orange"]],
+        "type": "Active"
+    },
+    "Ventricle Razor": {
+        "name": "Ventricle Razor",
+        "DLC": "Afterbirth",
+        "colors": [[84, "black"], [53, "red"], [22, "silver"], [16, "white"]],
+        "type": "Active"
+    },
+    "Wooden Nickel": {
+        "name": "Wooden Nickel",
+        "DLC": "Afterbirth",
+        "colors": [[128, "black"], [97, "maroon"], [51, "olive"]],
+        "type": "Active"
+    },
+    "Black Hole": {
+        "name": "Black Hole",
+        "DLC": "Afterbirth †",
+        "colors": [[193, "black"], [87, "gray"], [46, "purple"], [4, "teal"]],
+        "type": "Active"
+    },
+    "Book of the Dead": {
+        "name": "Book of the Dead",
+        "DLC": "Afterbirth †",
+        "colors": [[314, "black"], [22, "silver"]],
+        "type": "Active"
+    },
+    "Broken Shovel": {
+        "name": "Broken Shovel",
+        "DLC": "Afterbirth †",
+        "colors": [[97, "black"], [42, "gray"]],
+        "type": "Passive"
+    },
+    "Brown Nugget": {
+        "name": "Brown Nugget",
+        "DLC": "Afterbirth †",
+        "colors": [[164, "black"], [101, "maroon"]],
+        "type": "Active"
+    },
+    "Clicker": {
+        "name": "Clicker",
+        "DLC": "Afterbirth †",
+        "colors": [[229, "black"], [23, "gray"]],
+        "type": "Active"
+    },
+    "Compost": {
+        "name": "Compost",
+        "DLC": "Afterbirth †",
+        "colors": [[209, "black"], [58, "olive"], [28, "gray"]],
+        "type": "Active"
+    },
+    "Coupon": {
+        "name": "Coupon",
+        "DLC": "Afterbirth †",
+        "colors": [[153, "black"], [57, "silver"], [54, "gray"], [52, "white"]],
+        "type": "Active"
+    },
+    "Crooked Penny": {
+        "name": "Crooked Penny",
+        "DLC": "Afterbirth †",
+        "colors": [[148, "black"], [56, "olive"], [55, "gray"], [42, "silver"]],
+        "type": "Active"
+    },
+    "D Infinity": {
+        "name": "D Infinity",
+        "DLC": "Afterbirth †",
+        "colors": [[167, "black"], [158, "gray"]],
+        "type": "Active"
+    },
+    "D1": {
+        "name": "D1",
+        "DLC": "Afterbirth †",
+        "colors": [[110, "black"], [77, "silver"], [39, "white"], [32, "gray"]],
+        "type": "Active"
+    },
+    "Dataminer": {
+        "name": "Dataminer",
+        "DLC": "Afterbirth †",
+        "colors": [[306, "black"], [36, "red"], [36, "maroon"]],
+        "type": "Active"
+    },
+    "Delirious": {
+        "name": "Delirious",
+        "DLC": "Afterbirth †",
+        "colors": [[153, "black"], [67, "white"], [50, "silver"], [16, "gray"]],
+        "type": "Active"
+    },
+    "Dull Razor": {
+        "name": "Dull Razor",
+        "DLC": "Afterbirth †",
+        "colors": [[136, "black"], [112, "gray"]],
+        "type": "Active"
+    },
+    "Eden's Soul": {
+        "name": "Eden's Soul",
+        "DLC": "Afterbirth †",
+        "colors": [[176, "silver"], [148, "black"], [21, "white"]],
+        "type": "Active"
+    },
+    "Mama Mega!": {
+        "name": "Mama Mega!",
+        "DLC": "Afterbirth †",
+        "colors": [[303, "black"], [92, "gray"]],
+        "type": "Active"
+    },
+    "Metronome": {
+        "name": "Metronome",
+        "DLC": "Afterbirth †",
+        "colors": [[148, "black"], [77, "gray"]],
+        "type": "Active"
+    },
+    "Mom's Shovel": {
+        "name": "Mom's Shovel",
+        "DLC": "Afterbirth †",
+        "colors": [[170, "black"], [52, "gray"], [26, "navy"]],
+        "type": "Active"
+    },
+    "Moving Box": {
+        "name": "Moving Box",
+        "DLC": "Afterbirth †",
+        "colors": [[116, "black"], [75, "olive"], [71, "orange"]],
+        "type": "Active"
+    },
+    "Mr. ME!": {
+        "name": "Mr. ME!",
+        "DLC": "Afterbirth †",
+        "colors": [[217, "black"], [52, "maroon"], [49, "gray"]],
+        "type": "Active"
+    },
+    "Mystery Gift": {
+        "name": "Mystery Gift",
+        "DLC": "Afterbirth †",
+        "colors": [[208, "black"], [86, "maroon"], [37, "green"]],
+        "type": "Active"
+    },
+    "Pause": {
+        "name": "Pause",
+        "DLC": "Afterbirth †",
+        "colors": [[141, "black"], [53, "olive"], [35, "green"]],
+        "type": "Active"
+    },
+    "Plan C": {
+        "name": "Plan C",
+        "DLC": "Afterbirth †",
+        "colors": [[84, "black"], [73, "maroon"], [34, "red"]],
+        "type": "Active"
+    },
+    "Potato Peeler": {
+        "name": "Potato Peeler",
+        "DLC": "Afterbirth †",
+        "colors": [[133, "black"], [21, "gray"], [21, "maroon"]],
+        "type": "Active"
+    },
+    "Sacrificial Altar": {
+        "name": "Sacrificial Altar",
+        "DLC": "Afterbirth †",
+        "colors": [[198, "black"], [124, "gray"], [43, "maroon"]],
+        "type": "Active"
+    },
+    "Sharp Straw": {
+        "name": "Sharp Straw",
+        "DLC": "Afterbirth †",
+        "colors": [[110, "black"], [38, "silver"], [28, "white"], [10, "gray"]],
+        "type": "Active"
+    },
+    "Smelter": {
+        "name": "Smelter",
+        "DLC": "Afterbirth †",
+        "colors": [[136, "black"], [117, "gray"], [34, "white"]],
+        "type": "Active"
+    },
+    "Sprinkler": {
+        "name": "Sprinkler",
+        "DLC": "Afterbirth †",
+        "colors": [[164, "black"], [59, "gray"], [53, "silver"]],
+        "type": "Active"
+    },
+    "Telekinesis": {
+        "name": "Telekinesis",
+        "DLC": "Afterbirth †",
+        "colors": [[164, "silver"], [152, "black"], [70, "gray"]],
+        "type": "Active"
+    },
+    "Void": {
+        "name": "Void",
+        "DLC": "Afterbirth †",
+        "colors": [[244, "gray"], [124, "black"], [14, "maroon"]],
+        "type": "Active"
+    },
+    "Wait What?": {
+        "name": "Wait What?",
+        "DLC": "Afterbirth †",
+        "colors": [[56, "black"], [25, "white"], [19, "silver"]],
+        "type": "Active"
+    },
+    "???'s Only Friend": {
+        "name": "???'s Only Friend",
+        "DLC": null,
+        "colors": [[179, "black"], [104, "teal"], [32, "white"]],
+        "type": "Passive"
+    },
+    "<3": {
+        "name": "<3",
+        "DLC": null,
+        "colors": [[103, "maroon"], [95, "black"], [17, "orange"]],
+        "type": "Passive"
+    },
+    "1up!": {
+        "name": "1up!",
+        "DLC": null,
+        "colors": [[96, "black"], [79, "silver"], [40, "white"]],
+        "type": "Passive"
+    },
+    "20/20": {
+        "name": "20/20",
+        "DLC": null,
+        "colors": [[154, "black"], [41, "white"]],
+        "type": "Passive"
+    },
+    "3 Dollar Bill": {
+        "name": "3 Dollar Bill",
+        "DLC": null,
+        "colors": [[108, "silver"], [95, "black"], [12, "gray"]],
+        "type": "Passive"
+    },
+    "9 Volt": {
+        "name": "9 Volt",
+        "DLC": null,
+        "colors": [[224, "black"], [29, "gray"]],
+        "type": "Passive"
+    },
+    "A Dollar": {
+        "name": "A Dollar",
+        "DLC": null,
+        "colors": [[106, "gray"], [95, "black"], [14, "green"]],
+        "type": "Passive"
+    },
+    "A Lump of Coal": {
+        "name": "A Lump of Coal",
+        "DLC": null,
+        "colors": [[63, "black"], [47, "gray"]],
+        "type": "Passive"
+    },
+    "A Quarter": {
+        "name": "A Quarter",
+        "DLC": null,
+        "colors": [[162, "black"], [134, "gray"]],
+        "type": "Passive"
+    },
+    "A Snack": {
+        "name": "A Snack",
+        "DLC": null,
+        "colors": [[118, "olive"], [107, "black"], [43, "maroon"]],
+        "type": "Passive"
+    },
+    "Abaddon": {
+        "name": "Abaddon",
+        "DLC": null,
+        "colors": [[290, "red"], [136, "black"]],
+        "type": "Passive"
+    },
+    "Abel": {
+        "name": "Abel",
+        "DLC": null,
+        "colors": [[171, "black"], [146, "gray"], [74, "silver"]],
+        "type": "Passive"
+    },
+    "Anemic": {
+        "name": "Anemic",
+        "DLC": null,
+        "colors": [[80, "black"], [38, "red"], [31, "maroon"], [21, "white"]],
+        "type": "Passive"
+    },
+    "Ankh": {
+        "name": "Ankh",
+        "DLC": null,
+        "colors": [[196, "black"], [125, "gray"]],
+        "type": "Passive"
+    },
+    "Anti-Gravity": {
+        "name": "Anti-Gravity",
+        "DLC": null,
+        "colors": [[58, "teal"], [56, "black"], [32, "silver"]],
+        "type": "Passive"
+    },
+    "Aquarius": {
+        "name": "Aquarius",
+        "DLC": null,
+        "colors": [[184, "gray"], [112, "black"]],
+        "type": "Passive"
+    },
+    "Aries": {
+        "name": "Aries",
+        "DLC": null,
+        "colors": [[200, "gray"], [110, "black"]],
+        "type": "Passive"
+    },
+    "Ball of Bandages": {
+        "name": "Ball of Bandages",
+        "DLC": null,
+        "colors": [[162, "black"], [70, "gray"], [39, "silver"]],
+        "type": "Passive"
+    },
+    "Ball of Tar": {
+        "name": "Ball of Tar",
+        "DLC": null,
+        "colors": [[190, "black"]],
+        "type": "Passive"
+    },
+    "BBF": {
+        "name": "BBF",
+        "DLC": null,
+        "colors": [[166, "black"], [88, "gray"], [24, "white"]],
+        "type": "Passive"
+    },
+    "Best Bud": {
+        "name": "Best Bud",
+        "DLC": null,
+        "colors": [[91, "black"], [53, "white"], [13, "silver"], [5, "gray"]],
+        "type": "Passive"
+    },
+    "BFFS!": {
+        "name": "BFFS!",
+        "DLC": null,
+        "colors": [[165, "black"], [83, "red"], [30, "maroon"], [14, "white"]],
+        "type": "Passive"
+    },
+    "Big Fan": {
+        "name": "Big Fan",
+        "DLC": null,
+        "colors": [[171, "black"], [128, "gray"], [20, "white"]],
+        "type": "Passive"
+    },
+    "Black Candle": {
+        "name": "Black Candle",
+        "DLC": null,
+        "colors": [[197, "black"], [55, "gray"]],
+        "type": "Passive"
+    },
+    "Black Lotus": {
+        "name": "Black Lotus",
+        "DLC": null,
+        "colors": [[161, "black"], [103, "gray"], [15, "purple"]],
+        "type": "Passive"
+    },
+    "Blood Bag": {
+        "name": "Blood Bag",
+        "DLC": null,
+        "colors": [[144, "black"], [59, "maroon"], [50, "silver"], [22, "red"]],
+        "type": "Passive"
+    },
+    "Blood Clot": {
+        "name": "Blood Clot",
+        "DLC": null,
+        "colors": [[104, "black"], [79, "red"], [73, "maroon"]],
+        "type": "Passive"
+    },
+    "Blood of the Martyr": {
+        "name": "Blood of the Martyr",
+        "DLC": null,
+        "colors": [[158, "black"], [50, "olive"], [33, "maroon"]],
+        "type": "Passive"
+    },
+    "Bloody Lust": {
+        "name": "Bloody Lust",
+        "DLC": null,
+        "colors": [[67, "black"], [33, "red"], [14, "maroon"], [12, "white"]],
+        "type": "Passive"
+    },
+    "Blue Cap": {
+        "name": "Blue Cap",
+        "DLC": null,
+        "colors": [[123, "teal"], [114, "black"], [14, "silver"]],
+        "type": "Passive"
+    },
+    "Blue Map": {
+        "name": "Blue Map",
+        "DLC": null,
+        "colors": [[161, "black"], [133, "gray"], [52, "teal"]],
+        "type": "Passive"
+    },
+    "Bob's Brain": {
+        "name": "Bob's Brain",
+        "DLC": null,
+        "colors": [[141, "black"], [82, "green"], [33, "olive"]],
+        "type": "Passive"
+    },
+    "Bob's Curse": {
+        "name": "Bob's Curse",
+        "DLC": null,
+        "colors": [[244, "black"], [156, "gray"]],
+        "type": "Passive"
+    },
+    "Bobby-Bomb": {
+        "name": "Bobby-Bomb",
+        "DLC": null,
+        "colors": [[283, "black"], [73, "gray"]],
+        "type": "Passive"
+    },
+    "Bogo Bombs": {
+        "name": "Bogo Bombs",
+        "DLC": null,
+        "colors": [[217, "gray"], [150, "black"]],
+        "type": "Passive"
+    },
+    "Bomb Bag": {
+        "name": "Bomb Bag",
+        "DLC": null,
+        "colors": [[101, "black"], [44, "silver"], [39, "gray"], [22, "navy"]],
+        "type": "Passive"
+    },
+    "Boom!": {
+        "name": "Boom!",
+        "DLC": null,
+        "colors": [[217, "black"], [169, "gray"]],
+        "type": "Passive"
+    },
+    "Box": {
+        "name": "Box",
+        "DLC": null,
+        "colors": [[116, "black"], [105, "olive"], [77, "orange"]],
+        "type": "Passive"
+    },
+    "Breakfast": {
+        "name": "Breakfast",
+        "DLC": null,
+        "colors": [[244, "black"], [71, "silver"], [63, "gray"], [36, "white"]],
+        "type": "Passive"
+    },
+    "Brimstone": {
+        "name": "Brimstone",
+        "DLC": null,
+        "colors": [[184, "red"], [140, "black"]],
+        "type": "Passive"
+    },
+    "Broken Watch": {
+        "name": "Broken Watch",
+        "DLC": null,
+        "colors": [[226, "black"], [82, "teal"], [23, "silver"]],
+        "type": "Passive"
+    },
+    "Brother Bobby": {
+        "name": "Brother Bobby",
+        "DLC": null,
+        "colors": [[143, "black"], [117, "gray"]],
+        "type": "Passive"
+    },
+    "Bucket of Lard": {
+        "name": "Bucket of Lard",
+        "DLC": null,
+        "colors": [[205, "black"], [62, "gray"], [51, "silver"], [51, "white"]],
+        "type": "Passive"
+    },
+    "Bum Friend": {
+        "name": "Bum Friend",
+        "DLC": null,
+        "colors": [[187, "black"], [101, "silver"], [46, "gray"]],
+        "type": "Passive"
+    },
+    "Butt Bombs": {
+        "name": "Butt Bombs",
+        "DLC": null,
+        "colors": [[120, "black"], [85, "olive"], [73, "orange"]],
+        "type": "Passive"
+    },
+    "Caffeine Pill": {
+        "name": "Caffeine Pill",
+        "DLC": null,
+        "colors": [[116, "white"], [112, "black"], [26, "gray"], [23, "silver"]],
+        "type": "Passive"
+    },
+    "Cain's Other Eye": {
+        "name": "Cain's Other Eye",
+        "DLC": null,
+        "colors": [[97, "black"], [67, "white"], [18, "gray"]],
+        "type": "Passive"
+    },
+    "Cancer": {
+        "name": "Cancer",
+        "DLC": null,
+        "colors": [[214, "gray"], [126, "black"]],
+        "type": "Passive"
+    },
+    "Capricorn": {
+        "name": "Capricorn",
+        "DLC": null,
+        "colors": [[171, "gray"], [100, "black"]],
+        "type": "Passive"
+    },
+    "Cat-O-Nine-Tails": {
+        "name": "Cat-O-Nine-Tails",
+        "DLC": null,
+        "colors": [[307, "black"], [51, "gray"]],
+        "type": "Passive"
+    },
+    "Celtic Cross": {
+        "name": "Celtic Cross",
+        "DLC": null,
+        "colors": [[225, "black"], [53, "gray"]],
+        "type": "Passive"
+    },
+    "Ceremonial Robes": {
+        "name": "Ceremonial Robes",
+        "DLC": null,
+        "colors": [[253, "black"], [75, "gray"]],
+        "type": "Passive"
+    },
+    "Champion Belt": {
+        "name": "Champion Belt",
+        "DLC": null,
+        "colors": [[116, "black"], [72, "maroon"]],
+        "type": "Passive"
+    },
+    "Charm of the Vampire": {
+        "name": "Charm of the Vampire",
+        "DLC": null,
+        "colors": [[379, "black"]],
+        "type": "Passive"
+    },
+    "Chemical Peel": {
+        "name": "Chemical Peel",
+        "DLC": null,
+        "colors": [[177, "black"], [77, "maroon"], [59, "gray"]],
+        "type": "Passive"
+    },
+    "Chocolate Milk": {
+        "name": "Chocolate Milk",
+        "DLC": null,
+        "colors": [[128, "black"], [60, "olive"], [40, "maroon"], [24, "silver"]],
+        "type": "Passive"
+    },
+    "Contract From Below": {
+        "name": "Contract From Below",
+        "DLC": null,
+        "colors": [[178, "black"], [149, "gray"]],
+        "type": "Passive"
+    },
+    "Cricket's Body": {
+        "name": "Cricket's Body",
+        "DLC": null,
+        "colors": [[152, "black"], [89, "gray"], [38, "maroon"]],
+        "type": "Passive"
+    },
+    "Cricket's Head": {
+        "name": "Cricket's Head",
+        "DLC": null,
+        "colors": [[171, "black"], [47, "gray"], [46, "olive"], [45, "silver"]],
+        "type": "Passive"
+    },
+    "Cube of Meat": {
+        "name": "Cube of Meat",
+        "DLC": null,
+        "colors": [[99, "maroon"], [88, "black"], [35, "red"]],
+        "type": "Passive"
+    },
+    "Cupid's Arrow": {
+        "name": "Cupid's Arrow",
+        "DLC": null,
+        "colors": [[138, "black"], [44, "gray"], [22, "maroon"]],
+        "type": "Passive"
+    },
+    "Cursed Eye": {
+        "name": "Cursed Eye",
+        "DLC": null,
+        "colors": [[60, "black"], [32, "silver"], [20, "white"], [9, "gray"]],
+        "type": "Passive"
+    },
+    "Daddy Longlegs": {
+        "name": "Daddy Longlegs",
+        "DLC": null,
+        "colors": [[209, "black"], [68, "silver"], [36, "white"], [30, "gray"]],
+        "type": "Passive"
+    },
+    "Dark Bum": {
+        "name": "Dark Bum",
+        "DLC": null,
+        "colors": [[212, "black"], [150, "gray"]],
+        "type": "Passive"
+    },
+    "Dark Matter": {
+        "name": "Dark Matter",
+        "DLC": null,
+        "colors": [[221, "gray"], [124, "black"]],
+        "type": "Passive"
+    },
+    "Dead Bird": {
+        "name": "Dead Bird",
+        "DLC": null,
+        "colors": [[153, "black"], [106, "gray"]],
+        "type": "Passive"
+    },
+    "Dead Cat": {
+        "name": "Dead Cat",
+        "DLC": null,
+        "colors": [[331, "black"], [122, "gray"], [28, "white"]],
+        "type": "Passive"
+    },
+    "Dead Dove": {
+        "name": "Dead Dove",
+        "DLC": null,
+        "colors": [[150, "black"], [59, "silver"], [32, "white"], [30, "gray"]],
+        "type": "Passive"
+    },
+    "Dead Onion": {
+        "name": "Dead Onion",
+        "DLC": null,
+        "colors": [[126, "black"], [59, "gray"], [36, "maroon"]],
+        "type": "Passive"
+    },
+    "Death's Touch": {
+        "name": "Death's Touch",
+        "DLC": null,
+        "colors": [[148, "black"], [42, "gray"]],
+        "type": "Passive"
+    },
+    "Demon Baby": {
+        "name": "Demon Baby",
+        "DLC": null,
+        "colors": [[286, "black"]],
+        "type": "Passive"
+    },
+    "Dessert": {
+        "name": "Dessert",
+        "DLC": null,
+        "colors": [[229, "black"], [148, "gray"]],
+        "type": "Passive"
+    },
+    "Dinner": {
+        "name": "Dinner",
+        "DLC": null,
+        "colors": [[173, "black"], [63, "olive"], [36, "gray"]],
+        "type": "Passive"
+    },
+    "Distant Admiration": {
+        "name": "Distant Admiration",
+        "DLC": null,
+        "colors": [[170, "black"], [4, "gray"]],
+        "type": "Passive"
+    },
+    "Dr. Fetus": {
+        "name": "Dr. Fetus",
+        "DLC": null,
+        "colors": [[254, "black"], [129, "silver"]],
+        "type": "Passive"
+    },
+    "Dry Baby": {
+        "name": "Dry Baby",
+        "DLC": null,
+        "colors": [[164, "black"], [89, "silver"], [53, "gray"]],
+        "type": "Passive"
+    },
+    "E Coli": {
+        "name": "E Coli",
+        "DLC": null,
+        "colors": [[122, "black"], [45, "maroon"], [14, "white"]],
+        "type": "Passive"
+    },
+    "Epic Fetus": {
+        "name": "Epic Fetus",
+        "DLC": null,
+        "colors": [[319, "black"], [86, "silver"]],
+        "type": "Passive"
+    },
+    "Eve's Mascara": {
+        "name": "Eve's Mascara",
+        "DLC": null,
+        "colors": [[187, "black"], [11, "silver"], [3, "white"]],
+        "type": "Passive"
+    },
+    "Experimental Treatment": {
+        "name": "Experimental Treatment",
+        "DLC": null,
+        "colors": [[116, "black"], [14, "yellow"], [12, "gray"]],
+        "type": "Passive"
+    },
+    "Fanny Pack": {
+        "name": "Fanny Pack",
+        "DLC": null,
+        "colors": [[186, "black"], [118, "maroon"], [15, "olive"]],
+        "type": "Passive"
+    },
+    "Fate": {
+        "name": "Fate",
+        "DLC": null,
+        "colors": [[114, "black"], [104, "silver"], [85, "gray"]],
+        "type": "Passive"
+    },
+    "Fire Mind": {
+        "name": "Fire Mind",
+        "DLC": null,
+        "colors": [[195, "black"], [91, "orange"]],
+        "type": "Passive"
+    },
+    "Forever Alone": {
+        "name": "Forever Alone",
+        "DLC": null,
+        "colors": [[150, "black"], [16, "gray"]],
+        "type": "Passive"
+    },
+    "Gemini": {
+        "name": "Gemini",
+        "DLC": null,
+        "colors": [[204, "gray"], [112, "black"]],
+        "type": "Passive"
+    },
+    "Ghost Baby": {
+        "name": "Ghost Baby",
+        "DLC": null,
+        "colors": [[174, "black"], [92, "silver"], [30, "gray"]],
+        "type": "Passive"
+    },
+    "Gimpy": {
+        "name": "Gimpy",
+        "DLC": null,
+        "colors": [[170, "black"], [100, "gray"], [33, "white"]],
+        "type": "Passive"
+    },
+    "Gnawed Leaf": {
+        "name": "Gnawed Leaf",
+        "DLC": null,
+        "colors": [[177, "green"], [143, "black"]],
+        "type": "Passive"
+    },
+    "Goat Head": {
+        "name": "Goat Head",
+        "DLC": null,
+        "colors": [[209, "black"], [111, "gray"], [55, "olive"], [22, "maroon"]],
+        "type": "Passive"
+    },
+    "Godhead": {
+        "name": "Godhead",
+        "DLC": null,
+        "colors": [[132, "black"], [33, "silver"], [18, "gray"], [17, "white"]],
+        "type": "Passive"
+    },
+    "Growth Hormones": {
+        "name": "Growth Hormones",
+        "DLC": null,
+        "colors": [[116, "black"], [19, "gray"], [7, "purple"]],
+        "type": "Passive"
+    },
+    "Guardian Angel": {
+        "name": "Guardian Angel",
+        "DLC": null,
+        "colors": [[178, "black"], [104, "silver"], [18, "gray"]],
+        "type": "Passive"
+    },
+    "Guillotine": {
+        "name": "Guillotine",
+        "DLC": null,
+        "colors": [[140, "black"], [53, "silver"], [35, "white"], [34, "gray"]],
+        "type": "Passive"
+    },
+    "Guppy's Collar": {
+        "name": "Guppy's Collar",
+        "DLC": null,
+        "colors": [[168, "black"], [45, "silver"]],
+        "type": "Passive"
+    },
+    "Guppy's Hair Ball": {
+        "name": "Guppy's Hair Ball",
+        "DLC": null,
+        "colors": [[145, "black"], [133, "gray"], [14, "white"]],
+        "type": "Passive"
+    },
+    "Guppy's Tail": {
+        "name": "Guppy's Tail",
+        "DLC": null,
+        "colors": [[284, "black"], [6, "silver"]],
+        "type": "Passive"
+    },
+    "Habit": {
+        "name": "Habit",
+        "DLC": null,
+        "colors": [[427, "black"], [58, "white"], [50, "silver"]],
+        "type": "Passive"
+    },
+    "Halo of Flies": {
+        "name": "Halo of Flies",
+        "DLC": null,
+        "colors": [[180, "black"], [24, "gray"]],
+        "type": "Passive"
+    },
+    "Harlequin Baby": {
+        "name": "Harlequin Baby",
+        "DLC": null,
+        "colors": [[164, "black"], [52, "red"], [44, "silver"], [36, "gray"]],
+        "type": "Passive"
+    },
+    "Headless Baby": {
+        "name": "Headless Baby",
+        "DLC": null,
+        "colors": [[82, "black"], [42, "maroon"], [21, "silver"]],
+        "type": "Passive"
+    },
+    "Hive Mind": {
+        "name": "Hive Mind",
+        "DLC": null,
+        "colors": [[224, "black"], [80, "gray"], [70, "white"], [38, "teal"]],
+        "type": "Passive"
+    },
+    "Holy Grail": {
+        "name": "Holy Grail",
+        "DLC": null,
+        "colors": [[151, "black"], [111, "olive"], [21, "orange"]],
+        "type": "Passive"
+    },
+    "Holy Mantle": {
+        "name": "Holy Mantle",
+        "DLC": null,
+        "colors": [[118, "white"], [108, "black"], [32, "teal"], [28, "silver"]],
+        "type": "Passive"
+    },
+    "Holy Water": {
+        "name": "Holy Water",
+        "DLC": null,
+        "colors": [[152, "black"], [89, "silver"], [32, "gray"], [20, "white"]],
+        "type": "Passive"
+    },
+    "Hot Bombs": {
+        "name": "Hot Bombs",
+        "DLC": null,
+        "colors": [[123, "orange"], [117, "black"], [105, "gray"]],
+        "type": "Passive"
+    },
+    "Humbling Bundle": {
+        "name": "Humbling Bundle",
+        "DLC": null,
+        "colors": [[169, "gray"], [146, "black"], [11, "maroon"]],
+        "type": "Passive"
+    },
+    "Infamy": {
+        "name": "Infamy",
+        "DLC": null,
+        "colors": [[177, "black"], [135, "gray"], [25, "silver"]],
+        "type": "Passive"
+    },
+    "Infestation": {
+        "name": "Infestation",
+        "DLC": null,
+        "colors": [[143, "black"], [135, "silver"], [5, "white"]],
+        "type": "Passive"
+    },
+    "Infestation 2": {
+        "name": "Infestation 2",
+        "DLC": null,
+        "colors": [[244, "black"], [105, "gray"], [18, "maroon"]],
+        "type": "Passive"
+    },
+    "Ipecac": {
+        "name": "Ipecac",
+        "DLC": null,
+        "colors": [[168, "black"], [75, "gray"], [37, "white"]],
+        "type": "Passive"
+    },
+    "Iron Bar": {
+        "name": "Iron Bar",
+        "DLC": null,
+        "colors": [[96, "black"], [96, "gray"]],
+        "type": "Passive"
+    },
+    "Isaac's Heart": {
+        "name": "Isaac's Heart",
+        "DLC": null,
+        "colors": [[133, "maroon"], [118, "black"], [14, "purple"]],
+        "type": "Passive"
+    },
+    "Jesus Juice": {
+        "name": "Jesus Juice",
+        "DLC": null,
+        "colors": [[179, "black"], [64, "purple"], [54, "silver"]],
+        "type": "Passive"
+    },
+    "Judas' Shadow": {
+        "name": "Judas' Shadow",
+        "DLC": null,
+        "colors": [[210, "black"]],
+        "type": "Passive"
+    },
+    "Juicy Sack": {
+        "name": "Juicy Sack",
+        "DLC": null,
+        "colors": [[95, "black"], [85, "white"], [60, "silver"]],
+        "type": "Passive"
+    },
+    "Key Piece 1": {
+        "name": "Key Piece 1",
+        "DLC": null,
+        "colors": [[148, "black"], [44, "silver"], [34, "orange"], [18, "white"]],
+        "type": "Passive"
+    },
+    "Key Piece 2": {
+        "name": "Key Piece 2",
+        "DLC": null,
+        "colors": [[124, "black"], [55, "orange"], [29, "silver"], [9, "white"]],
+        "type": "Passive"
+    },
+    "Latch Key": {
+        "name": "Latch Key",
+        "DLC": null,
+        "colors": [[164, "black"], [31, "gray"], [24, "silver"]],
+        "type": "Passive"
+    },
+    "Lazarus' Rags": {
+        "name": "Lazarus' Rags",
+        "DLC": null,
+        "colors": [[240, "black"], [59, "white"], [48, "gray"], [28, "silver"]],
+        "type": "Passive"
+    },
+    "Leech": {
+        "name": "Leech",
+        "DLC": null,
+        "colors": [[150, "black"], [81, "gray"]],
+        "type": "Passive"
+    },
+    "Leo": {
+        "name": "Leo",
+        "DLC": null,
+        "colors": [[172, "gray"], [104, "black"]],
+        "type": "Passive"
+    },
+    "Libra": {
+        "name": "Libra",
+        "DLC": null,
+        "colors": [[200, "gray"], [111, "black"]],
+        "type": "Passive"
+    },
+    "Lil Brimstone": {
+        "name": "Lil Brimstone",
+        "DLC": null,
+        "colors": [[268, "black"], [124, "gray"]],
+        "type": "Passive"
+    },
+    "Lil Haunt": {
+        "name": "Lil Haunt",
+        "DLC": null,
+        "colors": [[156, "black"], [65, "white"], [61, "silver"], [34, "gray"]],
+        "type": "Passive"
+    },
+    "Little Baggy": {
+        "name": "Little Baggy",
+        "DLC": null,
+        "colors": [[183, "black"], [28, "white"], [14, "olive"], [12, "gray"]],
+        "type": "Passive"
+    },
+    "Little C.H.A.D.": {
+        "name": "Little C.H.A.D.",
+        "DLC": null,
+        "colors": [[184, "black"], [79, "maroon"], [65, "red"]],
+        "type": "Passive"
+    },
+    "Little Chubby": {
+        "name": "Little Chubby",
+        "DLC": null,
+        "colors": [[138, "black"], [77, "silver"], [15, "gray"]],
+        "type": "Passive"
+    },
+    "Little Gish": {
+        "name": "Little Gish",
+        "DLC": null,
+        "colors": [[217, "black"], [77, "gray"], [26, "yellow"]],
+        "type": "Passive"
+    },
+    "Little Steven": {
+        "name": "Little Steven",
+        "DLC": null,
+        "colors": [[213, "black"], [62, "white"]],
+        "type": "Passive"
+    },
+    "Loki's Horns": {
+        "name": "Loki's Horns",
+        "DLC": null,
+        "colors": [[147, "black"], [27, "gray"]],
+        "type": "Passive"
+    },
+    "Lord of the Pit": {
+        "name": "Lord of the Pit",
+        "DLC": null,
+        "colors": [[144, "red"], [87, "black"]],
+        "type": "Passive"
+    },
+    "Lost Contact": {
+        "name": "Lost Contact",
+        "DLC": null,
+        "colors": [[68, "black"], [47, "silver"], [21, "white"]],
+        "type": "Passive"
+    },
+    "Lucky Foot": {
+        "name": "Lucky Foot",
+        "DLC": null,
+        "colors": [[170, "silver"], [163, "black"], [13, "yellow"]],
+        "type": "Passive"
+    },
+    "Lunch": {
+        "name": "Lunch",
+        "DLC": null,
+        "colors": [[166, "black"], [108, "gray"], [47, "maroon"]],
+        "type": "Passive"
+    },
+    "Maggy's Bow": {
+        "name": "Maggy's Bow",
+        "DLC": null,
+        "colors": [[128, "black"], [96, "silver"], [15, "fuchsia"]],
+        "type": "Passive"
+    },
+    "Magic 8 Ball": {
+        "name": "Magic 8 Ball",
+        "DLC": null,
+        "colors": [[168, "black"], [42, "gray"], [34, "silver"]],
+        "type": "Passive"
+    },
+    "Magic Mushroom": {
+        "name": "Magic Mushroom",
+        "DLC": null,
+        "colors": [[96, "black"], [60, "red"], [40, "white"], [21, "silver"]],
+        "type": "Passive"
+    },
+    "Magic Scab": {
+        "name": "Magic Scab",
+        "DLC": null,
+        "colors": [[139, "maroon"], [120, "black"]],
+        "type": "Passive"
+    },
+    "Magneto": {
+        "name": "Magneto",
+        "DLC": null,
+        "colors": [[146, "black"], [72, "red"], [38, "maroon"], [10, "white"]],
+        "type": "Passive"
+    },
+    "Match Book": {
+        "name": "Match Book",
+        "DLC": null,
+        "colors": [[128, "black"], [45, "white"], [31, "gray"], [28, "silver"]],
+        "type": "Passive"
+    },
+    "MEAT!": {
+        "name": "MEAT!",
+        "DLC": null,
+        "colors": [[136, "black"], [92, "maroon"], [27, "gray"]],
+        "type": "Passive"
+    },
+    "Midas' Touch": {
+        "name": "Midas' Touch",
+        "DLC": null,
+        "colors": [[96, "black"], [71, "orange"], [25, "olive"]],
+        "type": "Passive"
+    },
+    "Mini Mush": {
+        "name": "Mini Mush",
+        "DLC": null,
+        "colors": [[78, "black"], [47, "silver"], [23, "white"]],
+        "type": "Passive"
+    },
+    "Missing No.": {
+        "name": "Missing No.",
+        "DLC": null,
+        "colors": [[306, "black"], [104, "yellow"], [57, "white"], [49, "teal"]],
+        "type": "Passive"
+    },
+    "Missing Page 2": {
+        "name": "Missing Page 2",
+        "DLC": null,
+        "colors": [[174, "black"], [105, "gray"], [32, "maroon"]],
+        "type": "Passive"
+    },
+    "Mitre": {
+        "name": "Mitre",
+        "DLC": null,
+        "colors": [[188, "black"], [99, "silver"], [99, "orange"], [65, "olive"]],
+        "type": "Passive"
+    },
+    "Mom's Coin Purse": {
+        "name": "Mom's Coin Purse",
+        "DLC": null,
+        "colors": [[186, "black"], [37, "gray"], [23, "olive"], [14, "silver"]],
+        "type": "Passive"
+    },
+    "Mom's Contacts": {
+        "name": "Mom's Contacts",
+        "DLC": null,
+        "colors": [[104, "black"], [102, "red"], [44, "gray"]],
+        "type": "Passive"
+    },
+    "Mom's Eye": {
+        "name": "Mom's Eye",
+        "DLC": null,
+        "colors": [[122, "black"], [44, "silver"], [13, "red"]],
+        "type": "Passive"
+    },
+    "Mom's Eyeshadow": {
+        "name": "Mom's Eyeshadow",
+        "DLC": null,
+        "colors": [[139, "black"], [48, "gray"]],
+        "type": "Passive"
+    },
+    "Mom's Heels": {
+        "name": "Mom's Heels",
+        "DLC": null,
+        "colors": [[141, "black"], [45, "maroon"], [33, "red"], [9, "white"]],
+        "type": "Passive"
+    },
+    "Mom's Key": {
+        "name": "Mom's Key",
+        "DLC": null,
+        "colors": [[143, "black"], [38, "silver"], [30, "yellow"], [18, "white"]],
+        "type": "Passive"
+    },
+    "Mom's Knife": {
+        "name": "Mom's Knife",
+        "DLC": null,
+        "colors": [[131, "black"], [66, "silver"], [13, "gray"]],
+        "type": "Passive"
+    },
+    "Mom's Lipstick": {
+        "name": "Mom's Lipstick",
+        "DLC": null,
+        "colors": [[125, "black"], [27, "red"], [21, "maroon"], [20, "gray"]],
+        "type": "Passive"
+    },
+    "Mom's Perfume": {
+        "name": "Mom's Perfume",
+        "DLC": null,
+        "colors": [[137, "black"], [42, "silver"], [9, "white"]],
+        "type": "Passive"
+    },
+    "Mom's Purse": {
+        "name": "Mom's Purse",
+        "DLC": null,
+        "colors": [[224, "black"], [88, "purple"], [54, "silver"]],
+        "type": "Passive"
+    },
+    "Mom's Underwear": {
+        "name": "Mom's Underwear",
+        "DLC": null,
+        "colors": [[107, "black"], [70, "gray"], [43, "silver"]],
+        "type": "Passive"
+    },
+    "Mom's Wig": {
+        "name": "Mom's Wig",
+        "DLC": null,
+        "colors": [[172, "black"], [114, "orange"], [64, "olive"], [21, "maroon"]],
+        "type": "Passive"
+    },
+    "Money = Power": {
+        "name": "Money = Power",
+        "DLC": null,
+        "colors": [[138, "black"], [96, "red"], [55, "gray"]],
+        "type": "Passive"
+    },
+    "Mongo Baby": {
+        "name": "Mongo Baby",
+        "DLC": null,
+        "colors": [[227, "black"], [53, "gray"], [19, "teal"]],
+        "type": "Passive"
+    },
+    "Monstro's Lung": {
+        "name": "Monstro's Lung",
+        "DLC": null,
+        "colors": [[144, "black"], [89, "gray"], [28, "orange"]],
+        "type": "Passive"
+    },
+    "Mr. Mega": {
+        "name": "Mr. Mega",
+        "DLC": null,
+        "colors": [[216, "black"], [93, "gray"], [91, "silver"]],
+        "type": "Passive"
+    },
+    "Mutant Spider": {
+        "name": "Mutant Spider",
+        "DLC": null,
+        "colors": [[370, "black"], [92, "gray"], [10, "white"]],
+        "type": "Passive"
+    },
+    "My Reflection": {
+        "name": "My Reflection",
+        "DLC": null,
+        "colors": [[137, "black"], [77, "white"], [60, "silver"], [48, "gray"]],
+        "type": "Passive"
+    },
+    "Mysterious Liquid": {
+        "name": "Mysterious Liquid",
+        "DLC": null,
+        "colors": [[98, "black"], [44, "gray"], [43, "lime"]],
+        "type": "Passive"
+    },
+    "Mystery Sack": {
+        "name": "Mystery Sack",
+        "DLC": null,
+        "colors": [[101, "black"], [77, "silver"], [27, "gray"]],
+        "type": "Passive"
+    },
+    "Number One": {
+        "name": "Number One",
+        "DLC": null,
+        "colors": [[67, "black"], [47, "silver"], [12, "white"]],
+        "type": "Passive"
+    },
+    "Odd Mushroom": {
+        "name": "Odd Mushroom",
+        "DLC": null,
+        "colors": [[95, "black"], [49, "gray"], [15, "maroon"]],
+        "type": "Passive"
+    },
+    "Old Bandage": {
+        "name": "Old Bandage",
+        "DLC": null,
+        "colors": [[177, "silver"], [139, "black"]],
+        "type": "Passive"
+    },
+    "Ouija Board": {
+        "name": "Ouija Board",
+        "DLC": null,
+        "colors": [[140, "black"], [128, "silver"], [102, "gray"]],
+        "type": "Passive"
+    },
+    "Pageant Boy": {
+        "name": "Pageant Boy",
+        "DLC": null,
+        "colors": [[180, "black"], [95, "silver"], [8, "gray"]],
+        "type": "Passive"
+    },
+    "Pentagram": {
+        "name": "Pentagram",
+        "DLC": null,
+        "colors": [[258, "black"], [63, "red"], [54, "maroon"]],
+        "type": "Passive"
+    },
+    "PHD": {
+        "name": "PHD",
+        "DLC": null,
+        "colors": [[132, "black"], [85, "silver"], [54, "maroon"], [52, "gray"]],
+        "type": "Passive"
+    },
+    "Piggy Bank": {
+        "name": "Piggy Bank",
+        "DLC": null,
+        "colors": [[166, "silver"], [148, "black"], [25, "gray"]],
+        "type": "Passive"
+    },
+    "Pisces": {
+        "name": "Pisces",
+        "DLC": null,
+        "colors": [[160, "gray"], [86, "black"]],
+        "type": "Passive"
+    },
+    "Placenta": {
+        "name": "Placenta",
+        "DLC": null,
+        "colors": [[159, "black"], [136, "purple"], [17, "maroon"]],
+        "type": "Passive"
+    },
+    "Polyphemus": {
+        "name": "Polyphemus",
+        "DLC": null,
+        "colors": [[235, "black"], [107, "silver"], [61, "white"]],
+        "type": "Passive"
+    },
+    "Proptosis": {
+        "name": "Proptosis",
+        "DLC": null,
+        "colors": [[120, "black"], [48, "white"], [28, "maroon"], [23, "red"]],
+        "type": "Passive"
+    },
+    "Punching Bag": {
+        "name": "Punching Bag",
+        "DLC": null,
+        "colors": [[200, "gray"], [143, "black"]],
+        "type": "Passive"
+    },
+    "Pyro": {
+        "name": "Pyro",
+        "DLC": null,
+        "colors": [[273, "black"], [70, "gray"], [35, "white"]],
+        "type": "Passive"
+    },
+    "Pyromaniac": {
+        "name": "Pyromaniac",
+        "DLC": null,
+        "colors": [[132, "black"], [86, "orange"], [29, "white"]],
+        "type": "Passive"
+    },
+    "Rainbow Baby": {
+        "name": "Rainbow Baby",
+        "DLC": null,
+        "colors": [[148, "black"], [116, "red"], [108, "silver"], [83, "orange"]],
+        "type": "Passive"
+    },
+    "Raw Liver": {
+        "name": "Raw Liver",
+        "DLC": null,
+        "colors": [[94, "black"], [74, "maroon"], [29, "olive"]],
+        "type": "Passive"
+    },
+    "Robo-Baby": {
+        "name": "Robo-Baby",
+        "DLC": null,
+        "colors": [[156, "black"], [43, "silver"], [33, "white"], [21, "red"]],
+        "type": "Passive"
+    },
+    "Robo-Baby 2.0": {
+        "name": "Robo-Baby 2.0",
+        "DLC": null,
+        "colors": [[166, "black"], [73, "gray"]],
+        "type": "Passive"
+    },
+    "Roid Rage": {
+        "name": "Roid Rage",
+        "DLC": null,
+        "colors": [[116, "black"], [14, "green"], [12, "gray"]],
+        "type": "Passive"
+    },
+    "Rosary": {
+        "name": "Rosary",
+        "DLC": null,
+        "colors": [[207, "black"], [14, "red"], [14, "maroon"], [13, "gray"]],
+        "type": "Passive"
+    },
+    "Rotten Baby": {
+        "name": "Rotten Baby",
+        "DLC": null,
+        "colors": [[160, "black"], [35, "olive"], [27, "gray"], [11, "maroon"]],
+        "type": "Passive"
+    },
+    "Rotten Meat": {
+        "name": "Rotten Meat",
+        "DLC": null,
+        "colors": [[119, "black"], [60, "gray"], [15, "silver"]],
+        "type": "Passive"
+    },
+    "Rubber Cement": {
+        "name": "Rubber Cement",
+        "DLC": null,
+        "colors": [[155, "black"], [59, "olive"], [49, "orange"]],
+        "type": "Passive"
+    },
+    "Sack of Pennies": {
+        "name": "Sack of Pennies",
+        "DLC": null,
+        "colors": [[101, "black"], [84, "gray"], [21, "purple"]],
+        "type": "Passive"
+    },
+    "Sacred Heart": {
+        "name": "Sacred Heart",
+        "DLC": null,
+        "colors": [[144, "black"], [34, "maroon"], [30, "red"], [25, "orange"]],
+        "type": "Passive"
+    },
+    "Sacrificial Dagger": {
+        "name": "Sacrificial Dagger",
+        "DLC": null,
+        "colors": [[125, "black"], [45, "maroon"], [34, "silver"]],
+        "type": "Passive"
+    },
+    "Sad Bombs": {
+        "name": "Sad Bombs",
+        "DLC": null,
+        "colors": [[114, "black"], [104, "gray"], [12, "silver"]],
+        "type": "Passive"
+    },
+    "Safety Pin": {
+        "name": "Safety Pin",
+        "DLC": null,
+        "colors": [[153, "black"], [47, "gray"], [12, "silver"]],
+        "type": "Passive"
+    },
+    "Sagittarius": {
+        "name": "Sagittarius",
+        "DLC": null,
+        "colors": [[126, "gray"], [81, "black"]],
+        "type": "Passive"
+    },
+    "Samson's Chains": {
+        "name": "Samson's Chains",
+        "DLC": null,
+        "colors": [[203, "black"], [50, "gray"]],
+        "type": "Passive"
+    },
+    "Scapular": {
+        "name": "Scapular",
+        "DLC": null,
+        "colors": [[339, "black"], [132, "gray"], [38, "white"]],
+        "type": "Passive"
+    },
+    "Scorpio": {
+        "name": "Scorpio",
+        "DLC": null,
+        "colors": [[223, "gray"], [134, "black"]],
+        "type": "Passive"
+    },
+    "Screw": {
+        "name": "Screw",
+        "DLC": null,
+        "colors": [[101, "black"], [82, "gray"]],
+        "type": "Passive"
+    },
+    "Sharp Plug": {
+        "name": "Sharp Plug",
+        "DLC": null,
+        "colors": [[209, "black"], [59, "silver"], [21, "gray"], [16, "white"]],
+        "type": "Passive"
+    },
+    "Sissy Longlegs": {
+        "name": "Sissy Longlegs",
+        "DLC": null,
+        "colors": [[139, "black"], [32, "gray"], [13, "teal"], [9, "silver"]],
+        "type": "Passive"
+    },
+    "Sister Maggy": {
+        "name": "Sister Maggy",
+        "DLC": null,
+        "colors": [[145, "black"], [72, "maroon"], [43, "red"]],
+        "type": "Passive"
+    },
+    "Skatole": {
+        "name": "Skatole",
+        "DLC": null,
+        "colors": [[146, "black"], [34, "maroon"], [22, "gray"]],
+        "type": "Passive"
+    },
+    "Skeleton Key": {
+        "name": "Skeleton Key",
+        "DLC": null,
+        "colors": [[136, "black"], [45, "gray"], [31, "silver"]],
+        "type": "Passive"
+    },
+    "Smart Fly": {
+        "name": "Smart Fly",
+        "DLC": null,
+        "colors": [[98, "black"], [60, "silver"], [26, "white"]],
+        "type": "Passive"
+    },
+    "SMB Super Fan": {
+        "name": "SMB Super Fan",
+        "DLC": null,
+        "colors": [[185, "black"], [105, "gray"], [37, "silver"]],
+        "type": "Passive"
+    },
+    "Soy Milk": {
+        "name": "Soy Milk",
+        "DLC": null,
+        "colors": [[128, "black"], [76, "white"], [40, "silver"]],
+        "type": "Passive"
+    },
+    "Speed Ball": {
+        "name": "Speed Ball",
+        "DLC": null,
+        "colors": [[111, "black"], [22, "gray"], [14, "white"]],
+        "type": "Passive"
+    },
+    "Spelunker Hat": {
+        "name": "Spelunker Hat",
+        "DLC": null,
+        "colors": [[195, "black"], [72, "gray"], [44, "silver"]],
+        "type": "Passive"
+    },
+    "Spider Baby": {
+        "name": "Spider Baby",
+        "DLC": null,
+        "colors": [[232, "black"], [62, "gray"], [34, "maroon"]],
+        "type": "Passive"
+    },
+    "Spider Bite": {
+        "name": "Spider Bite",
+        "DLC": null,
+        "colors": [[217, "black"], [120, "gray"], [8, "red"]],
+        "type": "Passive"
+    },
+    "Spirit of the Night": {
+        "name": "Spirit of the Night",
+        "DLC": null,
+        "colors": [[188, "red"], [130, "black"]],
+        "type": "Passive"
+    },
+    "Spoon Bender": {
+        "name": "Spoon Bender",
+        "DLC": null,
+        "colors": [[116, "black"], [33, "gray"], [28, "silver"], [8, "white"]],
+        "type": "Passive"
+    },
+    "Squeezy": {
+        "name": "Squeezy",
+        "DLC": null,
+        "colors": [[149, "black"], [110, "silver"], [23, "gray"]],
+        "type": "Passive"
+    },
+    "Starter Deck": {
+        "name": "Starter Deck",
+        "DLC": null,
+        "colors": [[158, "black"], [126, "gray"], [18, "olive"]],
+        "type": "Passive"
+    },
+    "Steam Sale": {
+        "name": "Steam Sale",
+        "DLC": null,
+        "colors": [[145, "black"], [51, "white"], [46, "gray"]],
+        "type": "Passive"
+    },
+    "Stem Cells": {
+        "name": "Stem Cells",
+        "DLC": null,
+        "colors": [[195, "black"], [110, "maroon"]],
+        "type": "Passive"
+    },
+    "Steven": {
+        "name": "Steven",
+        "DLC": null,
+        "colors": [[220, "black"], [68, "white"]],
+        "type": "Passive"
+    },
+    "Stigmata": {
+        "name": "Stigmata",
+        "DLC": null,
+        "colors": [[212, "black"], [120, "gray"]],
+        "type": "Passive"
+    },
+    "Stop Watch": {
+        "name": "Stop Watch",
+        "DLC": null,
+        "colors": [[177, "black"], [77, "teal"], [28, "silver"]],
+        "type": "Passive"
+    },
+    "Strange Attractor": {
+        "name": "Strange Attractor",
+        "DLC": null,
+        "colors": [[161, "black"], [97, "gray"], [8, "silver"]],
+        "type": "Passive"
+    },
+    "Super Bandage": {
+        "name": "Super Bandage",
+        "DLC": null,
+        "colors": [[134, "black"], [107, "silver"], [29, "white"]],
+        "type": "Passive"
+    },
+    "Synthoil": {
+        "name": "Synthoil",
+        "DLC": null,
+        "colors": [[111, "black"], [16, "gray"], [4, "white"]],
+        "type": "Passive"
+    },
+    "Taurus": {
+        "name": "Taurus",
+        "DLC": null,
+        "colors": [[210, "gray"], [124, "black"]],
+        "type": "Passive"
+    },
+    "Tech.5": {
+        "name": "Tech.5",
+        "DLC": null,
+        "colors": [[104, "black"], [38, "silver"], [18, "gray"], [9, "white"]],
+        "type": "Passive"
+    },
+    "Technology": {
+        "name": "Technology",
+        "DLC": null,
+        "colors": [[166, "black"], [72, "silver"], [24, "gray"]],
+        "type": "Passive"
+    },
+    "Technology 2": {
+        "name": "Technology 2",
+        "DLC": null,
+        "colors": [[209, "black"], [100, "gray"]],
+        "type": "Passive"
+    },
+    "The Battery": {
+        "name": "The Battery",
+        "DLC": null,
+        "colors": [[151, "black"], [70, "gray"], [30, "silver"]],
+        "type": "Passive"
+    },
+    "The Belt": {
+        "name": "The Belt",
+        "DLC": null,
+        "colors": [[203, "black"], [51, "olive"], [40, "gray"], [18, "maroon"]],
+        "type": "Passive"
+    },
+    "The Black Bean": {
+        "name": "The Black Bean",
+        "DLC": null,
+        "colors": [[75, "black"], [22, "gray"], [3, "white"]],
+        "type": "Passive"
+    },
+    "The Body": {
+        "name": "The Body",
+        "DLC": null,
+        "colors": [[245, "black"], [75, "white"], [53, "red"]],
+        "type": "Passive"
+    },
+    "The Common Cold": {
+        "name": "The Common Cold",
+        "DLC": null,
+        "colors": [[125, "black"], [110, "gray"], [42, "olive"]],
+        "type": "Passive"
+    },
+    "The Compass": {
+        "name": "The Compass",
+        "DLC": null,
+        "colors": [[123, "black"], [84, "silver"], [25, "red"]],
+        "type": "Passive"
+    },
+    "The Halo": {
+        "name": "The Halo",
+        "DLC": null,
+        "colors": [[172, "black"], [82, "yellow"], [20, "orange"]],
+        "type": "Passive"
+    },
+    "The Inner Eye": {
+        "name": "The Inner Eye",
+        "DLC": null,
+        "colors": [[93, "black"], [40, "white"], [33, "silver"]],
+        "type": "Passive"
+    },
+    "The Ladder": {
+        "name": "The Ladder",
+        "DLC": null,
+        "colors": [[260, "black"], [50, "gray"], [42, "olive"], [5, "maroon"]],
+        "type": "Passive"
+    },
+    "The Ludovico Technique": {
+        "name": "The Ludovico Technique",
+        "DLC": null,
+        "colors": [[182, "black"], [79, "white"], [27, "silver"], [10, "gray"]],
+        "type": "Passive"
+    },
+    "The Mark": {
+        "name": "The Mark",
+        "DLC": null,
+        "colors": [[132, "black"], [44, "red"], [28, "maroon"]],
+        "type": "Passive"
+    },
+    "The Mind": {
+        "name": "The Mind",
+        "DLC": null,
+        "colors": [[245, "black"], [75, "white"], [53, "silver"]],
+        "type": "Passive"
+    },
+    "The Mulligan": {
+        "name": "The Mulligan",
+        "DLC": null,
+        "colors": [[182, "black"], [125, "gray"], [19, "silver"]],
+        "type": "Passive"
+    },
+    "The Negative": {
+        "name": "The Negative",
+        "DLC": null,
+        "colors": [[368, "black"], [35, "gray"]],
+        "type": "Passive"
+    },
+    "The Pact": {
+        "name": "The Pact",
+        "DLC": null,
+        "colors": [[150, "black"], [86, "silver"], [35, "red"]],
+        "type": "Passive"
+    },
+    "The Parasite": {
+        "name": "The Parasite",
+        "DLC": null,
+        "colors": [[152, "black"], [51, "silver"], [21, "gray"], [6, "white"]],
+        "type": "Passive"
+    },
+    "The Peeper": {
+        "name": "The Peeper",
+        "DLC": null,
+        "colors": [[142, "black"], [44, "silver"], [12, "white"]],
+        "type": "Passive"
+    },
+    "The Polaroid": {
+        "name": "The Polaroid",
+        "DLC": null,
+        "colors": [[217, "black"], [136, "silver"], [34, "white"]],
+        "type": "Passive"
+    },
+    "The Relic": {
+        "name": "The Relic",
+        "DLC": null,
+        "colors": [[108, "black"], [66, "gray"]],
+        "type": "Passive"
+    },
+    "The Sad Onion": {
+        "name": "The Sad Onion",
+        "DLC": null,
+        "colors": [[124, "black"], [36, "gray"], [34, "white"], [15, "silver"]],
+        "type": "Passive"
+    },
+    "The Small Rock": {
+        "name": "The Small Rock",
+        "DLC": null,
+        "colors": [[86, "black"], [54, "silver"], [53, "gray"]],
+        "type": "Passive"
+    },
+    "The Soul": {
+        "name": "The Soul",
+        "DLC": null,
+        "colors": [[245, "black"], [75, "white"], [53, "teal"]],
+        "type": "Passive"
+    },
+    "The Virus": {
+        "name": "The Virus",
+        "DLC": null,
+        "colors": [[116, "black"], [12, "gray"], [7, "red"], [7, "maroon"]],
+        "type": "Passive"
+    },
+    "The Wafer": {
+        "name": "The Wafer",
+        "DLC": null,
+        "colors": [[93, "black"], [77, "silver"], [51, "white"]],
+        "type": "Passive"
+    },
+    "There's Options": {
+        "name": "There's Options",
+        "DLC": null,
+        "colors": [[197, "black"], [112, "white"], [69, "silver"], [42, "gray"]],
+        "type": "Passive"
+    },
+    "Thunder Thighs": {
+        "name": "Thunder Thighs",
+        "DLC": null,
+        "colors": [[155, "black"], [61, "yellow"], [41, "gray"], [33, "silver"]],
+        "type": "Passive"
+    },
+    "Tiny Planet": {
+        "name": "Tiny Planet",
+        "DLC": null,
+        "colors": [[106, "black"], [83, "gray"], [11, "silver"]],
+        "type": "Passive"
+    },
+    "Toothpicks": {
+        "name": "Toothpicks",
+        "DLC": null,
+        "colors": [[162, "black"], [58, "silver"], [6, "orange"]],
+        "type": "Passive"
+    },
+    "Torn Photo": {
+        "name": "Torn Photo",
+        "DLC": null,
+        "colors": [[195, "black"], [81, "gray"], [20, "silver"]],
+        "type": "Passive"
+    },
+    "Tough Love": {
+        "name": "Tough Love",
+        "DLC": null,
+        "colors": [[170, "black"], [94, "gray"]],
+        "type": "Passive"
+    },
+    "Transcendence": {
+        "name": "Transcendence",
+        "DLC": null,
+        "colors": [[137, "black"], [34, "orange"], [30, "gray"], [22, "maroon"]],
+        "type": "Passive"
+    },
+    "Treasure Map": {
+        "name": "Treasure Map",
+        "DLC": null,
+        "colors": [[151, "black"], [75, "silver"], [52, "gray"]],
+        "type": "Passive"
+    },
+    "Trinity Shield": {
+        "name": "Trinity Shield",
+        "DLC": null,
+        "colors": [[176, "black"], [64, "silver"], [46, "gray"]],
+        "type": "Passive"
+    },
+    "Virgo": {
+        "name": "Virgo",
+        "DLC": null,
+        "colors": [[234, "gray"], [147, "black"]],
+        "type": "Passive"
+    },
+    "Whore of Babylon": {
+        "name": "Whore of Babylon",
+        "DLC": null,
+        "colors": [[143, "red"], [139, "black"]],
+        "type": "Passive"
+    },
+    "Wire Coat Hanger": {
+        "name": "Wire Coat Hanger",
+        "DLC": null,
+        "colors": [[146, "black"]],
+        "type": "Passive"
+    },
+    "Wooden Spoon": {
+        "name": "Wooden Spoon",
+        "DLC": null,
+        "colors": [[94, "black"], [55, "gray"], [9, "olive"]],
+        "type": "Passive"
+    },
+    "X-Ray Vision": {
+        "name": "X-Ray Vision",
+        "DLC": null,
+        "colors": [[132, "black"], [29, "silver"], [11, "white"]],
+        "type": "Passive"
+    },
+    "8 Inch Nails": {
+        "name": "8 Inch Nails",
+        "DLC": "Afterbirth",
+        "colors": [[210, "black"], [118, "gray"]],
+        "type": "Passive"
+    },
+    "Athame": {
+        "name": "Athame",
+        "DLC": "Afterbirth",
+        "colors": [[141, "black"], [37, "gray"], [18, "silver"]],
+        "type": "Passive"
+    },
+    "Betrayal": {
+        "name": "Betrayal",
+        "DLC": "Afterbirth",
+        "colors": [[133, "black"], [37, "red"], [15, "white"]],
+        "type": "Passive"
+    },
+    "Binky": {
+        "name": "Binky",
+        "DLC": "Afterbirth",
+        "colors": [[117, "black"], [38, "teal"], [29, "silver"]],
+        "type": "Passive"
+    },
+    "Black Powder": {
+        "name": "Black Powder",
+        "DLC": "Afterbirth",
+        "colors": [[231, "black"], [57, "gray"]],
+        "type": "Passive"
+    },
+    "Bomber Boy": {
+        "name": "Bomber Boy",
+        "DLC": "Afterbirth",
+        "colors": [[197, "black"], [97, "silver"], [35, "white"], [18, "gray"]],
+        "type": "Passive"
+    },
+    "Bumbo": {
+        "name": "Bumbo",
+        "DLC": "Afterbirth",
+        "colors": [[130, "black"], [77, "silver"], [19, "gray"]],
+        "type": "Passive"
+    },
+    "Bursting Sack": {
+        "name": "Bursting Sack",
+        "DLC": "Afterbirth",
+        "colors": [[198, "black"], [117, "silver"], [34, "white"]],
+        "type": "Passive"
+    },
+    "Cambion Conception": {
+        "name": "Cambion Conception",
+        "DLC": "Afterbirth",
+        "colors": [[134, "red"], [99, "black"]],
+        "type": "Passive"
+    },
+    "Car Battery": {
+        "name": "Car Battery",
+        "DLC": "Afterbirth",
+        "colors": [[325, "black"], [2, "silver"]],
+        "type": "Passive"
+    },
+    "Censer": {
+        "name": "Censer",
+        "DLC": "Afterbirth",
+        "colors": [[129, "black"], [31, "yellow"], [23, "orange"], [18, "olive"]],
+        "type": "Passive"
+    },
+    "Chaos": {
+        "name": "Chaos",
+        "DLC": "Afterbirth",
+        "colors": [[169, "black"]],
+        "type": "Passive"
+    },
+    "Charged Baby": {
+        "name": "Charged Baby",
+        "DLC": "Afterbirth",
+        "colors": [[167, "black"], [32, "white"], [27, "gray"], [22, "silver"]],
+        "type": "Passive"
+    },
+    "Circle of Protection": {
+        "name": "Circle of Protection",
+        "DLC": "Afterbirth",
+        "colors": [[138, "black"], [81, "white"], [34, "gray"]],
+        "type": "Passive"
+    },
+    "Continuum": {
+        "name": "Continuum",
+        "DLC": "Afterbirth",
+        "colors": [[212, "black"], [133, "gray"]],
+        "type": "Passive"
+    },
+    "Crack Jacks": {
+        "name": "Crack Jacks",
+        "DLC": "Afterbirth",
+        "colors": [[149, "black"], [68, "silver"], [44, "gray"], [35, "maroon"]],
+        "type": "Passive"
+    },
+    "Crown of Light": {
+        "name": "Crown of Light",
+        "DLC": "Afterbirth",
+        "colors": [[107, "cyan"], [68, "black"]],
+        "type": "Passive"
+    },
+    "Curse of the Tower": {
+        "name": "Curse of the Tower",
+        "DLC": "Afterbirth",
+        "colors": [[167, "black"], [118, "gray"]],
+        "type": "Passive"
+    },
+    "Dead Eye": {
+        "name": "Dead Eye",
+        "DLC": "Afterbirth",
+        "colors": [[84, "black"], [68, "red"], [52, "gray"], [28, "maroon"]],
+        "type": "Passive"
+    },
+    "Deep Pockets": {
+        "name": "Deep Pockets",
+        "DLC": "Afterbirth",
+        "colors": [[146, "black"], [52, "gray"], [28, "silver"]],
+        "type": "Passive"
+    },
+    "Eden's Blessing": {
+        "name": "Eden's Blessing",
+        "DLC": "Afterbirth",
+        "colors": [[165, "black"], [63, "white"], [47, "silver"], [31, "gray"]],
+        "type": "Passive"
+    },
+    "Empty Vessel": {
+        "name": "Empty Vessel",
+        "DLC": "Afterbirth",
+        "colors": [[211, "black"], [37, "gray"], [21, "maroon"]],
+        "type": "Passive"
+    },
+    "Epiphora": {
+        "name": "Epiphora",
+        "DLC": "Afterbirth",
+        "colors": [[141, "black"], [84, "silver"], [27, "white"]],
+        "type": "Passive"
+    },
+    "Evil Eye": {
+        "name": "Evil Eye",
+        "DLC": "Afterbirth",
+        "colors": [[84, "teal"], [71, "black"], [31, "white"], [28, "silver"]],
+        "type": "Passive"
+    },
+    "Explosivo": {
+        "name": "Explosivo",
+        "DLC": "Afterbirth",
+        "colors": [[131, "orange"], [69, "black"], [11, "gray"], [7, "white"]],
+        "type": "Passive"
+    },
+    "Farting Baby": {
+        "name": "Farting Baby",
+        "DLC": "Afterbirth",
+        "colors": [[144, "black"], [118, "gray"], [47, "maroon"]],
+        "type": "Passive"
+    },
+    "Fate's Reward": {
+        "name": "Fate's Reward",
+        "DLC": "Afterbirth",
+        "colors": [[126, "black"], [70, "teal"], [54, "gray"]],
+        "type": "Passive"
+    },
+    "Friend Zone": {
+        "name": "Friend Zone",
+        "DLC": "Afterbirth",
+        "colors": [[122, "black"], [10, "silver"], [3, "gray"], [3, "white"]],
+        "type": "Passive"
+    },
+    "Fruit Cake": {
+        "name": "Fruit Cake",
+        "DLC": "Afterbirth",
+        "colors": [[142, "black"], [109, "maroon"], [59, "olive"]],
+        "type": "Passive"
+    },
+    "GB Bug": {
+        "name": "GB Bug",
+        "DLC": "Afterbirth",
+        "colors": [[109, "silver"], [81, "maroon"]],
+        "type": "Passive"
+    },
+    "Glitter Bombs": {
+        "name": "Glitter Bombs",
+        "DLC": "Afterbirth",
+        "colors": [[205, "silver"], [138, "black"], [24, "white"]],
+        "type": "Passive"
+    },
+    "God's Flesh": {
+        "name": "God's Flesh",
+        "DLC": "Afterbirth",
+        "colors": [[137, "black"], [101, "silver"], [57, "white"]],
+        "type": "Passive"
+    },
+    "Head of the Keeper": {
+        "name": "Head of the Keeper",
+        "DLC": "Afterbirth",
+        "colors": [[187, "black"], [88, "gray"], [42, "silver"]],
+        "type": "Passive"
+    },
+    "Holy Light": {
+        "name": "Holy Light",
+        "DLC": "Afterbirth",
+        "colors": [[57, "black"], [22, "white"], [9, "gray"], [6, "cyan"]],
+        "type": "Passive"
+    },
+    "Host Hat": {
+        "name": "Host Hat",
+        "DLC": "Afterbirth",
+        "colors": [[200, "black"], [92, "gray"], [46, "silver"]],
+        "type": "Passive"
+    },
+    "Immaculate Conception": {
+        "name": "Immaculate Conception",
+        "DLC": "Afterbirth",
+        "colors": [[155, "white"], [129, "black"]],
+        "type": "Passive"
+    },
+    "Incubus": {
+        "name": "Incubus",
+        "DLC": "Afterbirth",
+        "colors": [[321, "black"], [8, "red"]],
+        "type": "Passive"
+    },
+    "Key Bum": {
+        "name": "Key Bum",
+        "DLC": "Afterbirth",
+        "colors": [[194, "black"], [130, "gray"]],
+        "type": "Passive"
+    },
+    "Kidney Stone": {
+        "name": "Kidney Stone",
+        "DLC": "Afterbirth",
+        "colors": [[108, "black"], [69, "maroon"], [63, "olive"]],
+        "type": "Passive"
+    },
+    "Lil Chest": {
+        "name": "Lil Chest",
+        "DLC": "Afterbirth",
+        "colors": [[141, "black"], [69, "olive"], [41, "maroon"]],
+        "type": "Passive"
+    },
+    "Lil Gurdy": {
+        "name": "Lil Gurdy",
+        "DLC": "Afterbirth",
+        "colors": [[135, "black"], [91, "silver"], [12, "gray"]],
+        "type": "Passive"
+    },
+    "Lil' Loki": {
+        "name": "Lil' Loki",
+        "DLC": "Afterbirth",
+        "colors": [[160, "black"], [84, "maroon"], [56, "red"]],
+        "type": "Passive"
+    },
+    "Lost Fly": {
+        "name": "Lost Fly",
+        "DLC": "Afterbirth",
+        "colors": [[98, "black"], [48, "white"], [20, "silver"]],
+        "type": "Passive"
+    },
+    "Lusty Blood": {
+        "name": "Lusty Blood",
+        "DLC": "Afterbirth",
+        "colors": [[105, "maroon"], [89, "black"]],
+        "type": "Passive"
+    },
+    "Marked": {
+        "name": "Marked",
+        "DLC": "Afterbirth",
+        "colors": [[216, "black"], [146, "red"]],
+        "type": "Passive"
+    },
+    "Maw of the Void": {
+        "name": "Maw of the Void",
+        "DLC": "Afterbirth",
+        "colors": [[179, "black"], [152, "red"], [11, "orange"]],
+        "type": "Passive"
+    },
+    "Milk!": {
+        "name": "Milk!",
+        "DLC": "Afterbirth",
+        "colors": [[104, "black"], [30, "white"], [10, "silver"], [2, "gray"]],
+        "type": "Passive"
+    },
+    "Mom's Pearls": {
+        "name": "Mom's Pearls",
+        "DLC": "Afterbirth",
+        "colors": [[146, "black"], [44, "gray"], [29, "silver"]],
+        "type": "Passive"
+    },
+    "More Options": {
+        "name": "More Options",
+        "DLC": "Afterbirth",
+        "colors": [[197, "black"], [86, "yellow"], [62, "orange"], [42, "olive"]],
+        "type": "Passive"
+    },
+    "Mr. Dolly": {
+        "name": "Mr. Dolly",
+        "DLC": "Afterbirth",
+        "colors": [[197, "black"], [76, "silver"], [42, "yellow"]],
+        "type": "Passive"
+    },
+    "Multidimensional Baby": {
+        "name": "Multidimensional Baby",
+        "DLC": "Afterbirth",
+        "colors": [[121, "black"], [110, "silver"]],
+        "type": "Passive"
+    },
+    "My Shadow": {
+        "name": "My Shadow",
+        "DLC": "Afterbirth",
+        "colors": [[184, "black"]],
+        "type": "Passive"
+    },
+    "Night Light": {
+        "name": "Night Light",
+        "DLC": "Afterbirth",
+        "colors": [[100, "black"], [36, "white"], [20, "silver"], [14, "gray"]],
+        "type": "Passive"
+    },
+    "No. 2": {
+        "name": "No. 2",
+        "DLC": "Afterbirth",
+        "colors": [[140, "black"], [59, "silver"], [44, "white"], [20, "gray"]],
+        "type": "Passive"
+    },
+    "Obsessed Fan": {
+        "name": "Obsessed Fan",
+        "DLC": "Afterbirth",
+        "colors": [[82, "black"], [16, "silver"], [12, "gray"], [12, "purple"]],
+        "type": "Passive"
+    },
+    "Papa Fly": {
+        "name": "Papa Fly",
+        "DLC": "Afterbirth",
+        "colors": [[125, "black"], [38, "silver"], [20, "teal"]],
+        "type": "Passive"
+    },
+    "Pay to Play": {
+        "name": "Pay to Play",
+        "DLC": "Afterbirth",
+        "colors": [[108, "black"], [41, "silver"], [32, "gray"], [20, "white"]],
+        "type": "Passive"
+    },
+    "PJs": {
+        "name": "PJs",
+        "DLC": "Afterbirth",
+        "colors": [[122, "black"], [80, "silver"], [45, "gray"], [20, "teal"]],
+        "type": "Passive"
+    },
+    "Pupula Duplex": {
+        "name": "Pupula Duplex",
+        "DLC": "Afterbirth",
+        "colors": [[132, "black"], [95, "silver"], [55, "white"]],
+        "type": "Passive"
+    },
+    "Purity": {
+        "name": "Purity",
+        "DLC": "Afterbirth",
+        "colors": [[157, "black"], [44, "silver"], [42, "gray"], [38, "white"]],
+        "type": "Passive"
+    },
+    "Restock": {
+        "name": "Restock",
+        "DLC": "Afterbirth",
+        "colors": [[158, "black"], [118, "silver"]],
+        "type": "Passive"
+    },
+    "Rune Bag": {
+        "name": "Rune Bag",
+        "DLC": "Afterbirth",
+        "colors": [[101, "black"], [72, "purple"], [12, "silver"]],
+        "type": "Passive"
+    },
+    "Sack Head": {
+        "name": "Sack Head",
+        "DLC": "Afterbirth",
+        "colors": [[156, "black"], [86, "gray"], [39, "olive"], [19, "silver"]],
+        "type": "Passive"
+    },
+    "Scatter Bombs": {
+        "name": "Scatter Bombs",
+        "DLC": "Afterbirth",
+        "colors": [[203, "black"], [44, "gray"], [23, "white"]],
+        "type": "Passive"
+    },
+    "Seraphim": {
+        "name": "Seraphim",
+        "DLC": "Afterbirth",
+        "colors": [[207, "black"], [68, "silver"], [62, "white"]],
+        "type": "Passive"
+    },
+    "Serpent's Kiss": {
+        "name": "Serpent's Kiss",
+        "DLC": "Afterbirth",
+        "colors": [[133, "black"], [31, "teal"], [29, "green"]],
+        "type": "Passive"
+    },
+    "Spear of Destiny": {
+        "name": "Spear of Destiny",
+        "DLC": "Afterbirth",
+        "colors": [[114, "black"], [33, "gray"], [14, "white"]],
+        "type": "Passive"
+    },
+    "Spider Mod": {
+        "name": "Spider Mod",
+        "DLC": "Afterbirth",
+        "colors": [[123, "black"], [16, "gray"], [8, "silver"]],
+        "type": "Passive"
+    },
+    "Sticky Bombs": {
+        "name": "Sticky Bombs",
+        "DLC": "Afterbirth",
+        "colors": [[142, "black"], [58, "white"], [55, "silver"]],
+        "type": "Passive"
+    },
+    "Succubus": {
+        "name": "Succubus",
+        "DLC": "Afterbirth",
+        "colors": [[342, "black"]],
+        "type": "Passive"
+    },
+    "Sworn Protector": {
+        "name": "Sworn Protector",
+        "DLC": "Afterbirth",
+        "colors": [[140, "black"], [100, "silver"]],
+        "type": "Passive"
+    },
+    "Tech X": {
+        "name": "Tech X",
+        "DLC": "Afterbirth",
+        "colors": [[204, "black"], [85, "silver"], [20, "gray"]],
+        "type": "Passive"
+    },
+    "The Wiz": {
+        "name": "The Wiz",
+        "DLC": "Afterbirth",
+        "colors": [[137, "black"], [99, "white"], [44, "silver"], [21, "gray"]],
+        "type": "Passive"
+    },
+    "Toxic Shock": {
+        "name": "Toxic Shock",
+        "DLC": "Afterbirth",
+        "colors": [[200, "lime"], [174, "black"], [86, "green"]],
+        "type": "Passive"
+    },
+    "Tractor Beam": {
+        "name": "Tractor Beam",
+        "DLC": "Afterbirth",
+        "colors": [[155, "black"], [79, "gray"]],
+        "type": "Passive"
+    },
+    "Zodiac": {
+        "name": "Zodiac",
+        "DLC": "Afterbirth",
+        "colors": [[216, "black"], [146, "white"]],
+        "type": "Passive"
+    },
+    "7 Seals": {
+        "name": "7 Seals",
+        "DLC": "Afterbirth †",
+        "colors": [[165, "black"], [119, "silver"], [20, "olive"]],
+        "type": "Passive"
+    },
+    "Acid Baby": {
+        "name": "Acid Baby",
+        "DLC": "Afterbirth †",
+        "colors": [[193, "black"], [58, "gray"], [24, "silver"], [22, "olive"]],
+        "type": "Passive"
+    },
+    "Adrenaline": {
+        "name": "Adrenaline",
+        "DLC": "Afterbirth †",
+        "colors": [[117, "black"], [14, "silver"], [12, "gray"]],
+        "type": "Passive"
+    },
+    "Analog Stick": {
+        "name": "Analog Stick",
+        "DLC": "Afterbirth †",
+        "colors": [[150, "black"], [34, "gray"], [28, "silver"]],
+        "type": "Passive"
+    },
+    "Angelic Prism": {
+        "name": "Angelic Prism",
+        "DLC": "Afterbirth †",
+        "colors": [[76, "white"], [62, "black"], [50, "red"], [28, "orange"]],
+        "type": "Passive"
+    },
+    "Angry Fly": {
+        "name": "Angry Fly",
+        "DLC": "Afterbirth †",
+        "colors": [[144, "black"], [31, "maroon"], [29, "red"], [23, "white"]],
+        "type": "Passive"
+    },
+    "Apple!": {
+        "name": "Apple!",
+        "DLC": "Afterbirth †",
+        "colors": [[133, "black"], [128, "maroon"]],
+        "type": "Passive"
+    },
+    "Backstabber": {
+        "name": "Backstabber",
+        "DLC": "Afterbirth †",
+        "colors": [[129, "black"], [23, "red"], [16, "maroon"], [14, "silver"]],
+        "type": "Passive"
+    },
+    "Belly Button": {
+        "name": "Belly Button",
+        "DLC": "Afterbirth †",
+        "colors": [[94, "black"], [80, "silver"], [16, "gray"]],
+        "type": "Passive"
+    },
+    "Big Chubby": {
+        "name": "Big Chubby",
+        "DLC": "Afterbirth †",
+        "colors": [[121, "black"], [119, "silver"], [20, "gray"]],
+        "type": "Passive"
+    },
+    "Blanket": {
+        "name": "Blanket",
+        "DLC": "Afterbirth †",
+        "colors": [[115, "black"], [78, "silver"], [63, "gray"], [34, "teal"]],
+        "type": "Passive"
+    },
+    "Bloodshot Eye": {
+        "name": "Bloodshot Eye",
+        "DLC": "Afterbirth †",
+        "colors": [[135, "black"], [89, "silver"], [24, "maroon"]],
+        "type": "Passive"
+    },
+    "Bozo": {
+        "name": "Bozo",
+        "DLC": "Afterbirth †",
+        "colors": [[81, "black"], [19, "red"], [18, "white"], [7, "silver"]],
+        "type": "Passive"
+    },
+    "Brittle Bones": {
+        "name": "Brittle Bones",
+        "DLC": "Afterbirth †",
+        "colors": [[181, "black"], [61, "white"], [45, "silver"]],
+        "type": "Passive"
+    },
+    "Broken Modem": {
+        "name": "Broken Modem",
+        "DLC": "Afterbirth †",
+        "colors": [[312, "black"], [58, "gray"]],
+        "type": "Passive"
+    },
+    "Buddy in a Box": {
+        "name": "Buddy in a Box",
+        "DLC": "Afterbirth †",
+        "colors": [[142, "black"], [80, "orange"], [54, "olive"]],
+        "type": "Passive"
+    },
+    "Camo Undies": {
+        "name": "Camo Undies",
+        "DLC": "Afterbirth †",
+        "colors": [[131, "black"], [113, "silver"], [51, "gray"]],
+        "type": "Passive"
+    },
+    "Compound Fracture": {
+        "name": "Compound Fracture",
+        "DLC": "Afterbirth †",
+        "colors": [[168, "black"], [40, "silver"], [36, "white"], [18, "gray"]],
+        "type": "Passive"
+    },
+    "Cone Head": {
+        "name": "Cone Head",
+        "DLC": "Afterbirth †",
+        "colors": [[143, "silver"], [88, "black"], [8, "gray"]],
+        "type": "Passive"
+    },
+    "Contagion": {
+        "name": "Contagion",
+        "DLC": "Afterbirth †",
+        "colors": [[200, "red"], [174, "black"], [86, "maroon"]],
+        "type": "Passive"
+    },
+    "Dad's Lost Coin": {
+        "name": "Dad's Lost Coin",
+        "DLC": "Afterbirth †",
+        "colors": [[113, "black"], [54, "silver"], [49, "gray"]],
+        "type": "Passive"
+    },
+    "Dad's Ring": {
+        "name": "Dad's Ring",
+        "DLC": "Afterbirth †",
+        "colors": [[80, "black"], [13, "olive"], [12, "orange"]],
+        "type": "Passive"
+    },
+    "Dark Prince's Crown": {
+        "name": "Dark Prince's Crown",
+        "DLC": "Afterbirth †",
+        "colors": [[90, "black"], [89, "gray"]],
+        "type": "Passive"
+    },
+    "Dead Tooth": {
+        "name": "Dead Tooth",
+        "DLC": "Afterbirth †",
+        "colors": [[138, "gray"], [117, "black"], [22, "maroon"]],
+        "type": "Passive"
+    },
+    "Death's List": {
+        "name": "Death's List",
+        "DLC": "Afterbirth †",
+        "colors": [[196, "black"], [75, "silver"], [69, "gray"]],
+        "type": "Passive"
+    },
+    "Depression": {
+        "name": "Depression",
+        "DLC": "Afterbirth †",
+        "colors": [[119, "silver"], [107, "black"], [89, "gray"]],
+        "type": "Passive"
+    },
+    "Divorce Papers": {
+        "name": "Divorce Papers",
+        "DLC": "Afterbirth †",
+        "colors": [[135, "black"], [49, "white"], [47, "silver"], [16, "gray"]],
+        "type": "Passive"
+    },
+    "Dog Tooth": {
+        "name": "Dog Tooth",
+        "DLC": "Afterbirth †",
+        "colors": [[86, "black"], [45, "white"], [40, "silver"], [14, "gray"]],
+        "type": "Passive"
+    },
+    "Duality": {
+        "name": "Duality",
+        "DLC": "Afterbirth †",
+        "colors": [[155, "black"], [45, "white"], [17, "silver"], [5, "gray"]],
+        "type": "Passive"
+    },
+    "Eucharist": {
+        "name": "Eucharist",
+        "DLC": "Afterbirth †",
+        "colors": [[135, "black"], [42, "yellow"], [23, "white"], [22, "orange"]],
+        "type": "Passive"
+    },
+    "Euthanasia": {
+        "name": "Euthanasia",
+        "DLC": "Afterbirth †",
+        "colors": [[138, "black"], [5, "gray"], [3, "white"]],
+        "type": "Passive"
+    },
+    "Eye of Belial": {
+        "name": "Eye of Belial",
+        "DLC": "Afterbirth †",
+        "colors": [[90, "black"], [62, "maroon"]],
+        "type": "Passive"
+    },
+    "Eye of Greed": {
+        "name": "Eye of Greed",
+        "DLC": "Afterbirth †",
+        "colors": [[104, "black"], [61, "gray"], [45, "silver"]],
+        "type": "Passive"
+    },
+    "Fast Bombs": {
+        "name": "Fast Bombs",
+        "DLC": "Afterbirth †",
+        "colors": [[201, "black"], [129, "gray"], [30, "orange"]],
+        "type": "Passive"
+    },
+    "Finger!": {
+        "name": "Finger!",
+        "DLC": "Afterbirth †",
+        "colors": [[111, "black"], [89, "silver"], [12, "gray"]],
+        "type": "Passive"
+    },
+    "Flat Stone": {
+        "name": "Flat Stone",
+        "DLC": "Afterbirth †",
+        "colors": [[99, "gray"], [84, "black"], [73, "silver"]],
+        "type": "Passive"
+    },
+    "Ghost Pepper": {
+        "name": "Ghost Pepper",
+        "DLC": "Afterbirth †",
+        "colors": [[127, "black"], [95, "white"], [23, "silver"], [6, "gray"]],
+        "type": "Passive"
+    },
+    "Glaucoma": {
+        "name": "Glaucoma",
+        "DLC": "Afterbirth †",
+        "colors": [[105, "silver"], [97, "black"], [35, "white"], [27, "gray"]],
+        "type": "Passive"
+    },
+    "Glyph of Balance": {
+        "name": "Glyph of Balance",
+        "DLC": "Afterbirth †",
+        "colors": [[135, "silver"]],
+        "type": "Passive"
+    },
+    "Greed's Gullet": {
+        "name": "Greed's Gullet",
+        "DLC": "Afterbirth †",
+        "colors": [[143, "black"], [51, "gray"], [49, "maroon"], [38, "silver"]],
+        "type": "Passive"
+    },
+    "Haemolacria": {
+        "name": "Haemolacria",
+        "DLC": "Afterbirth †",
+        "colors": [[116, "black"], [75, "red"], [48, "maroon"], [15, "white"]],
+        "type": "Passive"
+    },
+    "Hallowed Ground": {
+        "name": "Hallowed Ground",
+        "DLC": "Afterbirth †",
+        "colors": [[100, "white"], [79, "black"], [50, "silver"]],
+        "type": "Passive"
+    },
+    "Hushy": {
+        "name": "Hushy",
+        "DLC": "Afterbirth †",
+        "colors": [[128, "black"], [64, "navy"], [44, "gray"], [40, "teal"]],
+        "type": "Passive"
+    },
+    "Jacob's Ladder": {
+        "name": "Jacob's Ladder",
+        "DLC": "Afterbirth †",
+        "colors": [[150, "black"], [52, "gray"], [22, "silver"]],
+        "type": "Passive"
+    },
+    "Jaw Bone": {
+        "name": "Jaw Bone",
+        "DLC": "Afterbirth †",
+        "colors": [[138, "black"], [58, "silver"], [36, "white"]],
+        "type": "Passive"
+    },
+    "Jumper Cables": {
+        "name": "Jumper Cables",
+        "DLC": "Afterbirth †",
+        "colors": [[328, "black"], [24, "maroon"], [18, "gray"]],
+        "type": "Passive"
+    },
+    "King Baby": {
+        "name": "King Baby",
+        "DLC": "Afterbirth †",
+        "colors": [[163, "black"], [57, "teal"], [34, "gray"], [30, "navy"]],
+        "type": "Passive"
+    },
+    "Lachryphagy": {
+        "name": "Lachryphagy",
+        "DLC": "Afterbirth †",
+        "colors": [[180, "black"], [139, "silver"], [10, "white"]],
+        "type": "Passive"
+    },
+    "Large Zit": {
+        "name": "Large Zit",
+        "DLC": "Afterbirth †",
+        "colors": [[96, "black"], [75, "silver"]],
+        "type": "Passive"
+    },
+    "Lead Pencil": {
+        "name": "Lead Pencil",
+        "DLC": "Afterbirth †",
+        "colors": [[89, "black"], [22, "silver"], [18, "white"], [10, "orange"]],
+        "type": "Passive"
+    },
+    "Leprosy": {
+        "name": "Leprosy",
+        "DLC": "Afterbirth †",
+        "colors": [[94, "silver"], [91, "black"], [36, "maroon"]],
+        "type": "Passive"
+    },
+    "Lil Delirium": {
+        "name": "Lil Delirium",
+        "DLC": "Afterbirth †",
+        "colors": [[156, "black"], [53, "silver"], [32, "white"]],
+        "type": "Passive"
+    },
+    "Lil Monstro": {
+        "name": "Lil Monstro",
+        "DLC": "Afterbirth †",
+        "colors": [[130, "black"], [94, "silver"], [26, "gray"]],
+        "type": "Passive"
+    },
+    "Lil Spewer": {
+        "name": "Lil Spewer",
+        "DLC": "Afterbirth †",
+        "colors": [[144, "silver"], [127, "black"], [20, "gray"]],
+        "type": "Passive"
+    },
+    "Linger Bean": {
+        "name": "Linger Bean",
+        "DLC": "Afterbirth †",
+        "colors": [[98, "black"], [88, "silver"], [62, "gray"]],
+        "type": "Passive"
+    },
+    "Little Horn": {
+        "name": "Little Horn",
+        "DLC": "Afterbirth †",
+        "colors": [[171, "black"]],
+        "type": "Passive"
+    },
+    "Marbles": {
+        "name": "Marbles",
+        "DLC": "Afterbirth †",
+        "colors": [[153, "black"], [49, "silver"], [49, "gray"], [19, "maroon"]],
+        "type": "Passive"
+    },
+    "Marrow": {
+        "name": "Marrow",
+        "DLC": "Afterbirth †",
+        "colors": [[135, "black"], [71, "maroon"], [11, "silver"]],
+        "type": "Passive"
+    },
+    "Metal Plate": {
+        "name": "Metal Plate",
+        "DLC": "Afterbirth †",
+        "colors": [[115, "black"], [55, "gray"], [22, "silver"]],
+        "type": "Passive"
+    },
+    "Moldy Bread": {
+        "name": "Moldy Bread",
+        "DLC": "Afterbirth †",
+        "colors": [[105, "black"], [34, "silver"], [33, "white"], [26, "gray"]],
+        "type": "Passive"
+    },
+    "Mom's Razor": {
+        "name": "Mom's Razor",
+        "DLC": "Afterbirth †",
+        "colors": [[101, "black"], [37, "silver"], [27, "gray"], [13, "purple"]],
+        "type": "Passive"
+    },
+    "Mystery Egg": {
+        "name": "Mystery Egg",
+        "DLC": "Afterbirth †",
+        "colors": [[72, "black"], [45, "gray"], [17, "silver"]],
+        "type": "Passive"
+    },
+    "Parasitoid": {
+        "name": "Parasitoid",
+        "DLC": "Afterbirth †",
+        "colors": [[139, "black"], [49, "teal"], [31, "white"]],
+        "type": "Passive"
+    },
+    "Pointy Rib": {
+        "name": "Pointy Rib",
+        "DLC": "Afterbirth †",
+        "colors": [[88, "black"], [11, "silver"], [7, "gray"], [7, "white"]],
+        "type": "Passive"
+    },
+    "Poke Go": {
+        "name": "Poke Go",
+        "DLC": "Afterbirth †",
+        "colors": [[194, "black"], [27, "olive"], [21, "silver"]],
+        "type": "Passive"
+    },
+    "Polydactyly": {
+        "name": "Polydactyly",
+        "DLC": "Afterbirth †",
+        "colors": [[114, "silver"], [100, "black"], [10, "gray"]],
+        "type": "Passive"
+    },
+    "Pop!": {
+        "name": "Pop!",
+        "DLC": "Afterbirth †",
+        "colors": [[100, "black"], [53, "white"], [51, "red"], [24, "silver"]],
+        "type": "Passive"
+    },
+    "Sack of Sacks": {
+        "name": "Sack of Sacks",
+        "DLC": "Afterbirth †",
+        "colors": [[137, "black"], [65, "silver"], [61, "gray"], [41, "olive"]],
+        "type": "Passive"
+    },
+    "Schoolbag": {
+        "name": "Schoolbag",
+        "DLC": "Afterbirth †",
+        "colors": [[201, "black"], [144, "maroon"], [87, "olive"]],
+        "type": "Passive"
+    },
+    "Shade": {
+        "name": "Shade",
+        "DLC": "Afterbirth †",
+        "colors": [[360, "black"], [24, "white"]],
+        "type": "Passive"
+    },
+    "Shard of Glass": {
+        "name": "Shard of Glass",
+        "DLC": "Afterbirth †",
+        "colors": [[89, "black"], [78, "silver"], [13, "white"]],
+        "type": "Passive"
+    },
+    "Sinus Infection": {
+        "name": "Sinus Infection",
+        "DLC": "Afterbirth †",
+        "colors": [[67, "black"], [25, "gray"], [17, "green"], [7, "silver"]],
+        "type": "Passive"
+    },
+    "Slipped Rib": {
+        "name": "Slipped Rib",
+        "DLC": "Afterbirth †",
+        "colors": [[107, "black"], [28, "white"], [18, "silver"], [9, "gray"]],
+        "type": "Passive"
+    },
+    "Sulfuric Acid": {
+        "name": "Sulfuric Acid",
+        "DLC": "Afterbirth †",
+        "colors": [[115, "black"], [32, "silver"], [23, "yellow"], [16, "white"]],
+        "type": "Passive"
+    },
+    "Tarot Cloth": {
+        "name": "Tarot Cloth",
+        "DLC": "Afterbirth †",
+        "colors": [[118, "black"], [57, "gray"], [27, "purple"]],
+        "type": "Passive"
+    },
+    "Technology Zero": {
+        "name": "Technology Zero",
+        "DLC": "Afterbirth †",
+        "colors": [[176, "black"], [40, "gray"], [28, "silver"], [20, "white"]],
+        "type": "Passive"
+    },
+    "Tonsil": {
+        "name": "Tonsil",
+        "DLC": "Afterbirth †",
+        "colors": [[118, "black"], [83, "silver"], [22, "gray"]],
+        "type": "Passive"
+    },
+    "Trisagion": {
+        "name": "Trisagion",
+        "DLC": "Afterbirth †",
+        "colors": [[150, "black"], [137, "white"], [29, "silver"]],
+        "type": "Passive"
+    },
+    "Varicose Veins": {
+        "name": "Varicose Veins",
+        "DLC": "Afterbirth †",
+        "colors": [[123, "black"], [66, "maroon"]],
+        "type": "Passive"
+    },
+    "YO LISTEN!": {
+        "name": "YO LISTEN!",
+        "DLC": "Afterbirth †",
+        "colors": [[188, "black"], [62, "silver"], [36, "gray"]],
+        "type": "Passive"
+    }
+}
